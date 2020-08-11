@@ -1,738 +1,1490 @@
 [
   {
-    "id":1,
-    "type":"Territory Areas",
-    "title":"Vazio ",
-    "notes":"",
-	"wiki_link":"",
-    "order":1,
-	"strokecolor":"#fff",
-	"fillcolor":"#747474",
+    "id": 1,
+    "type": "Territory Areas",
+    "title": "Território vazio ",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 62.957, "lng": -125.134},
-{"lat": 62.802, "lng": -125.947},
-{"lat": 62.741, "lng": -126.034},
-{"lat": 62.111, "lng": -124.376},
-{"lat": 62.402, "lng": -123.771}
-]
+      {
+        "lat": 62.957,
+        "lng": -125.134
+      },
+      {
+        "lat": 62.802,
+        "lng": -125.947
+      },
+      {
+        "lat": 62.741,
+        "lng": -126.034
+      },
+      {
+        "lat": 62.111,
+        "lng": -124.376
+      },
+      {
+        "lat": 62.402,
+        "lng": -123.771
+      }
+    ]
   },
   {
-    "id":2,
-    "type":"Territory Areas",
-    "title":"Ballas",
-    "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
-    "order":1,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
+    "id": 2,
+    "type": "Territory Areas",
+    "title": "Ballas",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#551a8b",
+    "fillcolor": "#551a8b",
     "latlngarray": [
-		{"lat": 62.109, "lng": -124.376},
-		{"lat": 61.876, "lng": -123.929},
-		{"lat": 61.637, "lng": -123.698},
-		{"lat": 61.637, "lng": -123.291},
-		{"lat": 61.835, "lng": -123.181},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.331, "lng": -123.917}
-	]
+      {
+        "lat": 62.109,
+        "lng": -124.376
+      },
+      {
+        "lat": 61.876,
+        "lng": -123.929
+      },
+      {
+        "lat": 61.637,
+        "lng": -123.698
+      },
+      {
+        "lat": 61.637,
+        "lng": -123.291
+      },
+      {
+        "lat": 61.835,
+        "lng": -123.181
+      },
+      {
+        "lat": 62.032,
+        "lng": -122.791
+      },
+      {
+        "lat": 62.260,
+        "lng": -123.698
+      },
+      {
+        "lat": 62.331,
+        "lng": -123.917
+      }
+    ]
   },
   {
-    "id":3,
-    "type":"Territory Areas",
-    "title":"Grove Traphouse",
-    "notes":"Once owned by the LB, now under Ballas control",
-    "order":2,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
+    "id": 2,
+    "type": "Territory Areas",
+    "title": "Ballas",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#551a8b",
+    "fillcolor": "#551a8b",
     "latlngarray": [
-		{"lat": 62.711, "lng": -122.919},
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.272, "lng": -122.377},
-		{"lat": 62.418, "lng": -122.139}
-	]
+      {
+        "lat": 62.109,
+        "lng": -124.376
+      },
+      {
+        "lat": 61.876,
+        "lng": -123.929
+      },
+      {
+        "lat": 61.637,
+        "lng": -123.698
+      },
+      {
+        "lat": 61.637,
+        "lng": -123.291
+      },
+      {
+        "lat": 61.835,
+        "lng": -123.181
+      },
+      {
+        "lat": 62.032,
+        "lng": -122.791
+      },
+      {
+        "lat": 62.260,
+        "lng": -123.698
+      },
+      {
+        "lat": 62.331,
+        "lng": -123.917
+      }
+    ]
   },
   {
-    "id":4,
-    "type":"Territory Areas",
-    "title":"Prune Street",
-    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
-    "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
+    "id": 3,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.272, "lng": -122.377}
-	]
+
+      {
+        "lat": 63.555,
+        "lng": -122.567
+      },
+      {
+        "lat": 63.837,
+        "lng": -121.479
+      },
+      {
+        "lat": 63.393,
+        "lng": -120.292
+      },
+      {
+        "lat": 62.991,
+        "lng": -121.040
+      }
+    ]
   },
   {
-    "id":5,
-    "type":"Territory Areas",
-    "title":"Aztecas",
-    "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
-    "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+    "id": 4,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 63.230, "lng": -123.861},
-{"lat": 63.501, "lng": -122.762},
-{"lat": 62.911, "lng": -121.158},
-{"lat": 62.514, "lng": -121.927}
-],
-	"video":{
-      "yt_id":"68ugkg9RePc",
-      "yt_user":"blisscorporation",
-      "start":"0:00",
-      "end":"3:39"
-    }
+
+
+      {
+        "lat": 62.966,
+        "lng": -125.039
+      },
+      {
+        "lat": 63.151,
+        "lng": -124.116
+      },
+      {
+        "lat": 62.771,
+        "lng": -123.116
+      },
+      {
+        "lat": 62.427,
+        "lng": -123.731
+      }
+    ]
   },
   {
-    "id":6,
-    "type":"Territory Areas",
-    "title":"GSF",
-    "notes":"Ay you know we always down to chill.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
-    "order":2,
-	"strokecolor":"#008000",
-	"fillcolor":"#008000",
+    "id": 5,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 64.215, "lng": -123.635},
-		{"lat": 64.330, "lng": -124.063},
-		{"lat": 64.301, "lng": -125.909},
-		{"lat": 63.874, "lng": -126.898},
-		{"lat": 63.084, "lng": -126.898},
-		{"lat": 62.850, "lng": -126.239}
-	],
-	"video":{
-      "yt_id":"_2M8wtbdg6k",
-      "yt_user":"UCmrt_6WFfHMfiC0xtgR7Qxg",
-      "start":"0:00",
-      "end":"4:57"
-    }
+
+      {
+        "lat": 63.006,
+        "lng": -125.548
+      },
+      {
+        "lat": 63.407,
+        "lng": -124.790
+      },
+      {
+        "lat": 63.240,
+        "lng": -124.350
+      }
+    ]
   },
   {
-    "id":7,
-    "type":"Territory Areas",
-    "title":"Vagos",
-    "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today. His signature line is IM TELLIN YOU PUTO",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vagos",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
+    "id": 6,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 62.295, "lng": -121.865},
-{"lat": 61.728, "lng": -122.865},
-{"lat": 61.624, "lng": -122.942},
-{"lat": 61.592, "lng": -122.612},
-{"lat": 61.498, "lng": -122.304},
-{"lat": 61.145, "lng": -121.546},
-{"lat": 61.028, "lng": -121.195},
-{"lat": 61.039, "lng": -120.920},
-{"lat": 61.145, "lng": -120.634},
-{"lat": 61.309, "lng": -120.349},
-{"lat": 61.477, "lng": -120.019},
-{"lat": 61.997, "lng": -121.107}
-],
-	"video":{
-      "yt_id":"M6R1aWQXFao",
-      "yt_user":"UC4irjUYpgjMTg0Wq8WhVNYQ",
-      "start":"0:00",
-      "end":"3:25"
-    }
+
+      {
+        "lat": 63.948,
+        "lng": -123.768
+      },
+      {
+        "lat": 64.346,
+        "lng": -122.999
+      },
+      {
+        "lat": 63.929,
+        "lng": -121.692
+      },
+      {
+        "lat": 63.623,
+        "lng": -122.878
+      }
+    ]
   },
   {
-    "id":8,
-    "type":"Territory Areas",
-    "title":"The Smeltery",
-    "notes":"Claimed by the Vagos, although they usually don't hold it down.",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
+    "id": 7,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 62.257, "lng": -115.231},
-{"lat": 61.441, "lng": -115.376},
-{"lat": 61.462, "lng": -114.035},
-{"lat": 61.451, "lng": -113.420},
-{"lat": 61.472, "lng": -113.091},
-{"lat": 61.535, "lng": -112.717},
-{"lat": 61.791, "lng": -113.003},
-{"lat": 62.065, "lng": -113.409},
-{"lat": 62.214, "lng": -113.684},
-{"lat": 62.346, "lng": -113.805},
-{"lat": 62.356, "lng": -113.803},
-{"lat": 62.254, "lng": -114.758}
-]
+
+      {
+        "lat": 63.948,
+        "lng": -123.768
+      },
+      {
+        "lat": 64.346,
+        "lng": -122.999
+      },
+      {
+        "lat": 63.929,
+        "lng": -121.692
+      },
+      {
+        "lat": 63.623,
+        "lng": -122.878
+      }
+    ]
   },
   {
-    "id":15,
-    "type":"Territory Areas",
-    "title":"Pawnshop",
-    "notes":"Who know who owns this place anymore",
-    "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#FFFFFF",
+    "id": 8,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 64.901, "lng": -122.899},
-{"lat": 64.827, "lng": -123.041},
-{"lat": 64.794, "lng": -123.184},
-{"lat": 64.742, "lng": -123.052},
-{"lat": 64.681, "lng": -122.789},
-{"lat": 64.775, "lng": -122.613},
-{"lat": 64.850, "lng": -122.580}
-]
+
+      {
+        "lat": 64.207,
+        "lng": -122.043
+      },
+      {
+        "lat": 64.630,
+        "lng": -121.219
+      },
+      {
+        "lat": 64.284,
+        "lng": -120.296
+      },
+      {
+        "lat": 63.987,
+        "lng": -121.439
+      }
+    ]
   },
   {
-    "id":9,
-    "type":"Territory Areas",
-    "title":"Aztecas East Side",
-    "notes":"More territory claimed by Aztecas",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
-    "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+    "id": 9,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 64.180, "lng": -113.902},
-		{"lat": 63.712, "lng": -113.902},
-		{"lat": 63.075, "lng": -113.441},
-		{"lat": 63.499, "lng": -111.749},
-		{"lat": 64.043, "lng": -110.321},
-		{"lat": 63.860, "lng": -112.221},
-		{"lat": 64.200, "lng": -112.474}
-	]
+
+      {
+        "lat": 64.436,
+        "lng": -122.856
+      },
+      {
+        "lat": 64.733,
+        "lng": -122.362
+      },
+      {
+        "lat": 64.695,
+        "lng": -121.417
+      },
+      {
+        "lat": 64.279,
+        "lng": -122.252
+      }
+    ]
   },
   {
-    "id":10,
-    "type":"Territory Areas",
-    "title":"Bondi Boys MC",
-    "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
-    "order":2,
-	"strokecolor":"#1560bd",
-	"fillcolor":"#1560bd",
+    "id": 10,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 66.579, "lng": -137.638},
-		{"lat": 66.134, "lng": -138.715},
-		{"lat": 65.577, "lng": -137.781},
-		{"lat": 65.160, "lng": -137.770},
-		{"lat": 64.447, "lng": -137.189},
-		{"lat": 64.180, "lng": -138.320},
-		{"lat": 62.576, "lng": -136.189},
-		{"lat": 63.463, "lng": -134.168},
-		{"lat": 64.584, "lng": -135.871},
-		{"lat": 66.428, "lng": -137.310}
-	]
+
+      {
+        "lat": 63.481,
+        "lng": -120.110
+      },
+      {
+        "lat": 64.212,
+        "lng": -120.044
+      },
+      {
+        "lat": 64.198,
+        "lng": -119.538
+      },
+      {
+        "lat": 63.909,
+        "lng": -121.208
+      },
+      {
+        "lat": 63.880,
+        "lng": -119.560
+      }
+    ]
   },
   {
-    "id":11,
-    "type":"Territory Areas",
-    "title":"Little Seoul",
-    "notes":"Koreans claimed this area also a popular gas station here.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
+    "id": 11,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 67.281, "lng": -131.770},
-		{"lat": 66.221, "lng": -131.770},
-		{"lat": 66.221, "lng": -129.886},
-		{"lat": 66.485, "lng": -129.578},
-		{"lat": 66.877, "lng": -129.578},
-		{"lat": 67.093, "lng": -129.935},
-		{"lat": 67.281, "lng": -129.935}
-	]
+
+      {
+        "lat": 64.303,
+        "lng": -119.472
+      },
+      {
+        "lat": 64.929,
+        "lng": -120.670
+      },
+      {
+        "lat": 64.938,
+        "lng": -119.835
+      },
+      {
+        "lat": 64.312,
+        "lng": -119.912
+      },
+      {
+        "lat": 64.611,
+        "lng": -119.483
+      },
+      {
+        "lat": 64.705,
+        "lng": -121.065
+      }
+    ]
   },
   {
-    "id":12,
-    "type":"Territory Areas",
-    "title":"Ace King",
-    "notes":"Koreans. Blackjack is hosted here.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
+    "id": 12,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 69.057, "lng": -123.763},
-		{"lat": 68.911, "lng": -123.950},
-		{"lat": 68.859, "lng": -123.598},
-		{"lat": 69.009, "lng": -123.400}
-	]
+
+      {
+        "lat": 65.025,
+        "lng": -122.257
+      },
+      {
+        "lat": 64.834,
+        "lng": -122.301
+      },
+      {
+        "lat": 64.820,
+        "lng": -121.488
+      },
+      {
+        "lat": 65.021,
+        "lng": -121.367
+      }
+    ]
   },
   {
-    "id":13,
-    "type":"Territory Areas",
-    "title":"The Casino",
-    "notes":"Koreans, but the casino is not used very much as nothing actually works.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
+    "id": 13,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 70.011, "lng": -115.523},
-		{"lat": 69.800, "lng": -116.050},
-		{"lat": 69.616, "lng": -115.226},
-		{"lat": 69.900, "lng": -114.710}
-	]
+
+      {
+        "lat": 64.951,
+        "lng": -125.410
+      },
+      {
+        "lat": 64.581,
+        "lng": -125.454
+      },
+      {
+        "lat": 64.600,
+        "lng": -123.883
+      },
+      {
+        "lat": 64.918,
+        "lng": -124.201
+      }
+    ]
   },
   {
-    "id":14,
-    "type":"Territory Areas",
-    "title":"Quickfix",
-    "notes":"Fill me in :)",
-	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
-    "order":2,
-	"strokecolor":"#747474",
-	"fillcolor":"#747474",
+    "id": 14,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 69.418, "lng": -115.109},
-		{"lat": 69.239, "lng": -115.493},
-		{"lat": 69.048, "lng": -114.658},
-		{"lat": 69.197, "lng": -114.230}
-	]
+
+      {
+        "lat": 64.983,
+        "lng": -127.091
+      },
+      {
+        "lat": 64.344,
+        "lng": -127.102
+      },
+      {
+        "lat": 64.633,
+        "lng": -125.728
+      },
+      {
+        "lat": 64.979,
+        "lng": -125.717
+      }
+    ]
   },
   {
-    "id":16,
-    "type":"Territory Areas",
-    "title":"The Russians",
-    "notes":"Da Comrade, you may not like us, but you must like vodka. Protecting/taxing the Wizard",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Russian_Mafia",
-    "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#fd5e53",
+    "id": 15,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 57.356, "lng": -117.026},
-		{"lat": 54.927, "lng": -117.026},
-		{"lat": 54.927, "lng": -111.983},
-		{"lat": 56.493, "lng": -111.983},
-		{"lat": 56.493, "lng": -112.730},
-		{"lat": 57.356, "lng": -112.730}
-	]
+
+      {
+        "lat": 64.485,
+        "lng": -125.581
+      },
+      {
+        "lat": 64.480,
+        "lng": -123.538
+      },
+      {
+        "lat": 64.219,
+        "lng": -126.526
+      },
+      {
+        "lat": 64.402,
+        "lng": -123.250
+      },
+      {
+        "lat": 64.029,
+        "lng": -123.997
+      },
+      {
+        "lat": 64.188,
+        "lng": -124.459
+      },
+      {
+        "lat": 64.146,
+        "lng": -125.290
+      },
+      {
+        "lat": 63.959,
+        "lng": -125.763
+      }
+    ]
   },
   {
-    "id":17,
-    "type":"Territory Areas",
-    "title":"H.O.A. / Mirror Park",
-    "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
+    "id": 16,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 68.808, "lng": -113.097},
-		{"lat": 68.997, "lng": -114.492},
-		{"lat": 68.620, "lng": -115.174},
-		{"lat": 68.463, "lng": -114.437},
-		{"lat": 68.442, "lng": -114.521},
-		{"lat": 67.907, "lng": -116.674},
-		{"lat": 67.540, "lng": -116.674},
-		{"lat": 66.738, "lng": -114.345},
-		{"lat": 66.738, "lng": -110.643},
-		{"lat": 67.857, "lng": -110.643}
-	]
+
+      {
+        "lat": 63.869,
+        "lng": -125.567
+      },
+      {
+        "lat": 64.086,
+        "lng": -124.545
+      },
+      {
+        "lat": 64.062,
+        "lng": -125.160
+      },
+      {
+        "lat": 63.587,
+        "lng": -124.842
+      },
+      {
+        "lat": 63.946,
+        "lng": -124.161
+      }
+    ]
   },
   {
-    "id":18,
-    "type":"Territory Areas",
-    "title":"The Lost MC",
-    "notes":"Moved from the Quickfix clubhouse, the bikers now have a new building in Stab City",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lost_MC",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
+    "id": 17,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 79.261, "lng": -123.992},
-		{"lat": 78.994, "lng": -125.607},
-		{"lat": 78.827, "lng": -123.003},
-		{"lat": 79.205, "lng": -123.168}
-	]
+
+      {
+        "lat": 63.765,
+        "lng": -125.748
+      },
+      {
+        "lat": 63.496,
+        "lng": -125.023
+      },
+      {
+        "lat": 63.487,
+        "lng": -126.220
+      },
+      {
+        "lat": 63.047,
+        "lng": -125.869
+      },
+      {
+        "lat": 63.186,
+        "lng": -126.229
+      }
+    ]
   },
   {
-    "id":20,
-    "type":"Territory Areas",
-    "title":"The Scrapyard",
-    "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
+    "id": 18,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 78.043, "lng": -101.833},
-		{"lat": 77.758, "lng": -101.902},
-		{"lat": 77.758, "lng": -100.836},
-		{"lat": 78.043, "lng": -100.836}
-	]
-  },
-    {
-    "id":25,
-    "type":"Territory Areas",
-    "title":"Sandy Shores",
-    "notes":"Don't get robbed by the bikers, also watch for angry locals.",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
-    "latlngarray": [
-		{"lat": 79.109, "lng": -104.576},
-		{"lat": 79.543, "lng": -106.024},
-		{"lat": 79.509, "lng": -107.661},
-		{"lat": 79.194, "lng": -109.594},
-		{"lat": 78.953, "lng": -113.011},
-		{"lat": 78.772, "lng": -111.891},
-		{"lat": 78.671, "lng": -109.118},
-		{"lat": 78.717, "lng": -108.135}
-	]
-  },
-  {
-    "id":19,
-    "type":"Neutral Zones",
-    "title":"Pink Cage Motel",
-    "notes":"Prime time hostage taking",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray": [
-		{"lat": 69.108, "lng": -121.987},
-		{"lat": 68.951, "lng": -122.141},
-		{"lat": 68.820, "lng": -121.207},
-		{"lat": 68.998, "lng": -121.031}
-	]
-  },
-  {
-    "id":21,
-    "type":"Neutral Zones",
-    "title":"West Side Motel",
-    "notes":"Prime time hostage taking VOL. 2",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray": [
-		{"lat": 67.462, "lng": -138.802},
-		{"lat": 67.315, "lng": -139.424},
-		{"lat": 67.217, "lng": -139.072},
-		{"lat": 67.353, "lng": -138.578}
-	]
+
+      {
+        "lat": 63.831,
+        "lng": -125.923
+      },
+      {
+        "lat": 63.563,
+        "lng": -126.440
+      },
+      {
+        "lat": 63.342,
+        "lng": -127.890
+      },
+      {
+        "lat": 64.206,
+        "lng": -127.121
+      },
+      {
+        "lat": 63.144,
+        "lng": -126.461
+      },
+      {
+        "lat": 63.098,
+        "lng": -127.009
+      },
+      {
+        "lat": 62.958,
+        "lng": -126.031
+      },
+      {
+        "lat": 62.843,
+        "lng": -126.229
+      },
+      {
+        "lat": 63.699,
+        "lng": -127.355
+      },
+      {
+        "lat": 63.999,
+        "lng": -127.124
+      },
+      {
+        "lat": 64.205,
+        "lng": -126.938
+      },
+      {
+        "lat": 64.071,
+        "lng": -126.564
+      }
+    ]
   },
   {
-    "id":22,
-    "type":"Neutral Zones",
-    "title":"Pillbox Medical Center",
-    "notes":"EMS GANG GANG AYAYA",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
+    "id": 19,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 67.728, "lng": -121.734},
-		{"lat": 67.485, "lng": -122.000},
-		{"lat": 67.367, "lng": -121.140},
-		{"lat": 67.695, "lng": -120.679}
-	]
+
+      {
+        "lat": 64.955,
+        "lng": -127.404
+      },
+      {
+        "lat": 64.329,
+        "lng": -127.404
+      },
+      {
+        "lat": 64.329,
+        "lng": -127.953
+      },
+      {
+        "lat": 64.931,
+        "lng": -127.942
+      }
+    ]
   },
   {
-    "id":23,
-    "type":"Neutral Zones",
-    "title":"Mission Row PD",
-    "notes":"Oink oink oink oink. Snort. More like a pig pen.",
-    "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
+    "id": 20,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 66.151, "lng": -120.516},
-		{"lat": 65.906, "lng": -120.516},
-		{"lat": 65.937, "lng": -119.813},
-		{"lat": 66.151, "lng": -119.813}
-	]
+
+      {
+        "lat": 61.377,
+        "lng": -116.817
+      },
+      {
+        "lat": 60.658,
+        "lng": -115.763
+      },
+      {
+        "lat": 61.319,
+        "lng": -115.642
+      },
+      {
+        "lat": 60.707,
+        "lng": -116.938
+      }
+    ]
   },
   {
-    "id":24,
-    "type":"Neutral Zones",
-    "title":"Vanilla Unicorn",
-    "notes":"Now owned by Nino Chavez, the VU is a new southside netural zone.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#800080",
+    "id": 21,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 64.897, "lng": -123.770},
-		{"lat": 64.734, "lng": -123.595},
-		{"lat": 64.846, "lng": -123.056},
-		{"lat": 64.944, "lng": -123.221}
-	]
+
+      {
+        "lat": 60.577,
+        "lng": -116.949
+      },
+      {
+        "lat": 59.647,
+        "lng": -115.927
+      },
+      {
+        "lat": 60.540,
+        "lng": -115.785
+      },
+      {
+        "lat": 59.697,
+        "lng": -117.125
+      }
+    ]
   },
   {
-    "id":26,
-    "type":"Territory Areas",
-    "title":"The Dam",
-    "notes":"Claimed by HOA",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
+    "id": 22,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 69.823, "lng": -108.579},
-		{"lat": 69.724, "lng": -108.909},
-		{"lat": 69.598, "lng": -108.678},
-		{"lat": 69.394, "lng": -108.623},
-		{"lat": 69.410, "lng": -108.000},
-		{"lat": 69.675, "lng": -108.260}
-	]
+
+      {
+        "lat": 61.324,
+        "lng": -114.334
+      },
+      {
+        "lat": 59.575,
+        "lng": -114.664
+      },
+      {
+        "lat": 61.308,
+        "lng": -115.411
+      },
+      {
+        "lat": 59.641,
+        "lng": -115.697
+      }
+    ]
   },
   {
-    "id":27,
-    "type":"Territory Areas",
-    "title":"Mirror Park Railyard",
-    "notes":"Claimed by HOA",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
+    "id": 22,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 68.398, "lng": -119.082},
-		{"lat": 67.949, "lng": -120.005},
-		{"lat": 67.309, "lng": -120.005},
-		{"lat": 67.292, "lng": -119.324},
-		{"lat": 67.804, "lng": -118.928},
-		{"lat": 68.150, "lng": -117.962}
-	]
+
+      {
+        "lat": 61.324,
+        "lng": -114.334
+      },
+      {
+        "lat": 59.575,
+        "lng": -114.664
+      },
+      {
+        "lat": 61.308,
+        "lng": -115.411
+      },
+      {
+        "lat": 59.641,
+        "lng": -115.697
+      }
+    ]
   },
   {
-    "id":28,
-    "type":"Neutral Zones",
-    "title":"The Courthouse",
-    "notes":"Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Department_of_Justice",
-    "order":2,
-	"strokecolor":"#002d70",
-	"fillcolor":"#ffeab9",
+    "id": 23,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 68.434, "lng": -122.685},
-		{"lat": 68.043, "lng": -123.059},
-		{"lat": 68.047, "lng": -121.795},
-		{"lat": 68.275, "lng": -121.612}
-	]
+
+      {
+        "lat": 62.816,
+        "lng": -116.314
+      },
+      {
+        "lat": 62.756,
+        "lng": -114.743
+      },
+      {
+        "lat": 62.816,
+        "lng": -114.161
+      },
+      {
+        "lat": 62.402,
+        "lng": -113.886
+      },
+      {
+        "lat": 62.279,
+        "lng": -114.853
+      },
+      {
+        "lat": 62.279,
+        "lng": -115.424
+      },
+      {
+        "lat": 61.462,
+        "lng": -115.611
+      },
+      {
+        "lat": 61.499,
+        "lng": -116.797
+      },
+      {
+        "lat": 62.147,
+        "lng": -116.589
+      }
+    ]
   },
   {
-    "id":29,
-    "type":"Neutral Zones",
-    "title":"Integrity Tower",
-    "notes":"The upgraded apartments for high-class citizens.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#000000",
+    "id": 24,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 67.477, "lng": -122.005},
-{"lat": 67.334, "lng": -122.170},
-{"lat": 67.223, "lng": -121.357},
-{"lat": 67.367, "lng": -121.181}
-]
+
+      {
+        "lat": 64.179,
+        "lng": -114.554
+      },
+      {
+        "lat": 63.613,
+        "lng": -116.180
+      },
+      {
+        "lat": 64.164,
+        "lng": -115.982
+      },
+      {
+        "lat": 63.934,
+        "lng": -116.466
+      },
+      {
+        "lat": 62.955,
+        "lng": -116.338
+      },
+      {
+        "lat": 62.865,
+        "lng": -115.173
+      },
+      {
+        "lat": 62.915,
+        "lng": -114.294
+      },
+      {
+        "lat": 63.588,
+        "lng": -114.514
+      }
+    ]
   },
   {
-    "id":30,
-    "type":"Territory Areas",
-    "title":"Legion Square",
-    "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
-    "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#0080ff",
+    "id": 25,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 66.655, "lng": -122.808},
-		{"lat": 66.056, "lng": -123.357},
-		{"lat": 65.931, "lng": -122.500},
-		{"lat": 66.528, "lng": -121.962}
-	]
+
+      {
+        "lat": 62.953,
+        "lng": -113.346
+      },
+      {
+        "lat": 62.536,
+        "lng": -113.027
+      },
+      {
+        "lat": 62.863,
+        "lng": -110.962
+      },
+      {
+        "lat": 63.380,
+        "lng": -111.599
+      },
+      {
+        "lat": 63.157,
+        "lng": -112.390
+      }
+    ]
   },
   {
-    "id":31,
-    "type":"Territory Areas",
-    "title":"DeathDealer MC",
-    "notes":"The north is strong.",
-    "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#000",
+    "id": 26,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 83.222, "lng": -125.764},
-		{"lat": 83.173, "lng": -126.178},
-		{"lat": 83.072, "lng": -126.716},
-		{"lat": 83.028, "lng": -126.343},
-		{"lat": 83.112, "lng": -125.673},
-		{"lat": 83.164, "lng": -125.189}
-	]
+
+      {
+        "lat": 64.195,
+        "lng": -113.840
+      },
+      {
+        "lat": 63.073,
+        "lng": -113.445
+      },
+      {
+        "lat": 63.713,
+        "lng": -112.072
+      },
+      {
+        "lat": 63.493,
+        "lng": -111.764
+      },
+      {
+        "lat": 64.190,
+        "lng": -112.467
+      },
+      {
+        "lat": 63.271,
+        "lng": -112.442
+      },
+      {
+        "lat": 63.705,
+        "lng": -113.898
+      }
+    ]
   },
   {
-    "id":32,
-    "type":"Territory Areas",
-    "title":"El Rancho",
-    "notes":"Claimed by the vagos but not currently patrolling.",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
+    "id": 27,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-{"lat": 63.723, "lng": -119.210},
-{"lat": 62.395, "lng": -121.671},
-{"lat": 62.031, "lng": -120.759},
-{"lat": 62.339, "lng": -119.265},
-{"lat": 62.445, "lng": -119.078},
-{"lat": 62.542, "lng": -118.946},
-{"lat": 62.934, "lng": -118.858},
-{"lat": 63.327, "lng": -118.814},
-{"lat": 63.538, "lng": -118.814},
-{"lat": 63.641, "lng": -118.979}
-]
+
+      {
+        "lat": 62.862,
+        "lng": -117.948
+      },
+      {
+        "lat": 62.842,
+        "lng": -116.838
+      },
+      {
+        "lat": 62.807,
+        "lng": -117.882
+      },
+      {
+        "lat": 61.551,
+        "lng": -118.090
+      },
+      {
+        "lat": 61.524,
+        "lng": -117.343
+      },
+      {
+        "lat": 62.395,
+        "lng": -116.971
+      },
+      {
+        "lat": 61.967,
+        "lng": -117.190
+      },
+      {
+        "lat": 62.172,
+        "lng": -118.036
+      }
+    ]
   },
   {
-    "id":33,
-    "type":"Territory Areas",
-    "title":"Cop Killa Records",
-    "notes":"Headquarter and studios of CKR",
-    "order":2,
-	"strokecolor":"#B2951A",
-	"fillcolor":"#666666",
+    "id": 28,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 67.238, "lng": -121.027},
-		{"lat": 66.917, "lng": -121.324},
-		{"lat": 66.921, "lng": -120.742},
-	  	{"lat": 67.234, "lng": -120.753}
-	]
+
+      {
+        "lat": 63.021,
+        "lng": -117.961
+      },
+      {
+        "lat": 63.421,
+        "lng": -117.873
+      },
+      {
+        "lat": 63.836,
+        "lng": -116.752
+      },
+      {
+        "lat": 63.617,
+        "lng": -116.544
+      },
+      {
+        "lat": 62.951,
+        "lng": -116.686
+      }
+    ]
   },
   {
-    "id":34,
-    "type":"Territory Areas",
-    "title":"The Cemetery",
-    "notes":"Claimed by Prune Gang. It's a real monkaW place.",
-    "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
+    "id": 29,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
     "latlngarray": [
-		{"lat": 69.291, "lng": -140.384},
-		{"lat": 68.974, "lng": -142.746},
-		{"lat": 68.588, "lng": -141.933},
-		{"lat": 68.451, "lng": -141.131},
-		{"lat": 68.652, "lng": -140.471},
-		{"lat": 68.887, "lng": -140.340},
-		{"lat": 68.980, "lng": -140.212},
-		{"lat": 69.064, "lng": -139.933}
-	]
-  },
-  {
-    "id":35,
-    "type":"Neutral Zones",
-    "title":"Parsons Hill",
-    "notes":"A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFB6C1",
-    "latlngarray": [
-{"lat": 72.540, "lng": -139.174},
-{"lat": 72.327, "lng": -140.255},
-{"lat": 72.184, "lng": -140.145},
-{"lat": 72.120, "lng": -140.365},
-{"lat": 72.055, "lng": -140.299},
-{"lat": 72.035, "lng": -140.167},
-{"lat": 72.120, "lng": -139.530},
-{"lat": 72.261, "lng": -138.739},
-{"lat": 72.401, "lng": -138.849},
-{"lat": 72.500, "lng": -138.959}
-]
-  },
-  {
-    "id":36,
-    "type":"Territory Areas",
-    "title":"Vinewood Hills",
-    "notes":"Patrolled by the HOA for house robberies",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
-    "latlngarray": [
-{"lat": 70.602, "lng": -135.026},
-{"lat": 70.588, "lng": -134.015},
-{"lat": 70.463, "lng": -132.982},
-{"lat": 70.456, "lng": -132.125},
-{"lat": 70.595, "lng": -131.005},
-{"lat": 70.573, "lng": -129.752},
-{"lat": 70.515, "lng": -128.522},
-{"lat": 70.522, "lng": -128.082},
-{"lat": 70.581, "lng": -127.533},
-{"lat": 70.595, "lng": -127.050},
-{"lat": 70.581, "lng": -126.346},
-{"lat": 70.573, "lng": -125.665},
-{"lat": 70.602, "lng": -124.699},
-{"lat": 70.588, "lng": -124.281},
-{"lat": 70.871, "lng": -123.886},
-{"lat": 71.050, "lng": -123.248},
-{"lat": 71.135, "lng": -122.369},
-{"lat": 71.280, "lng": -122.325},
-{"lat": 71.442, "lng": -122.084},
-{"lat": 71.714, "lng": -122.008},
-{"lat": 71.975, "lng": -121.744},
-{"lat": 72.338, "lng": -121.898},
-{"lat": 72.823, "lng": -121.555},
-{"lat": 72.971, "lng": -125.049},
-{"lat": 72.944, "lng": -126.232},
-{"lat": 72.984, "lng": -126.903},
-{"lat": 72.965, "lng": -127.343},
-{"lat": 72.679, "lng": -127.892},
-{"lat": 72.482, "lng": -131.495},
-{"lat": 72.349, "lng": -131.753},
-{"lat": 72.272, "lng": -132.796},
-{"lat": 72.208, "lng": -133.434},
-{"lat": 72.241, "lng": -134.149},
-{"lat": 72.335, "lng": -134.957},
-{"lat": 72.241, "lng": -136.107},
-{"lat": 71.857, "lng": -137.535},
-{"lat": 71.671, "lng": -138.375},
-{"lat": 71.379, "lng": -139.957},
-{"lat": 70.946, "lng": -139.941},
-{"lat": 71.003, "lng": -138.663},
-{"lat": 71.043, "lng": -136.839},
-{"lat": 71.000, "lng": -134.949},
-{"lat": 70.809, "lng": -135.004}
-]
-  },
-  {
-    "id":37,
-    "type":"Territory Areas",
-    "title":"Oxy Shop",
-    "notes":"Who uses this place anyways? KEKW",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 63.867, "lng": -123.947},
-{"lat": 63.526, "lng": -124.607},
-{"lat": 63.319, "lng": -124.068},
-{"lat": 63.565, "lng": -123.079}
-]
-  },
-  {
-    "id":38,
-    "type":"Territory Areas",
-    "title":"Amarillo Vista",
-    "notes":"Controlled by the Misfits, Pixie house is here.",
-    "order":2,
-	"strokecolor":"#0080ff",
-	"fillcolor":"#0080ff",
-    "latlngarray": [
-{"lat": 63.388, "lng": -111.611},
-{"lat": 63.126, "lng": -111.205},
-{"lat": 62.871, "lng": -110.974},
-{"lat": 62.756, "lng": -111.831},
-{"lat": 62.549, "lng": -113.018},
-{"lat": 62.966, "lng": -113.358},
-{"lat": 63.160, "lng": -112.402}
-]
+
+      {
+        "lat": 65.108,
+        "lng": -112.615
+      },
+      {
+        "lat": 64.524,
+        "lng": -112.681
+      },
+      {
+        "lat": 64.301,
+        "lng": -112.571
+      },
+      {
+        "lat": 64.315,
+        "lng": -113.857
+      },
+      {
+        "lat": 64.764,
+        "lng": -113.758
+      },
+      {
+        "lat": 64.955,
+        "lng": -113.516
+      },
+      {
+        "lat": 65.071,
+        "lng": -113.154
+      }
+    ]
 
   },
-    {
-    "id":39,
-    "type":"Neutral Zones",
-    "title":"North Side Motel",
-    "notes":"Prime time hostage taking VOL. 3",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray":   [
-{"lat": 70.580, "lng": -119.984},
-{"lat": 70.378, "lng": -120.170},
-{"lat": 70.300, "lng": -119.335},
-{"lat": 70.477, "lng": -119.149}
-]
+  {
+    "id": 30,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.851,
+        "lng": -134.821
+      },
+      {
+        "lat": 63.491,
+        "lng": -134.425
+      },
+      {
+        "lat": 63.725,
+        "lng": -135.227
+      },
+      {
+        "lat": 63.623,
+        "lng": -134.458
+      },
+      {
+        "lat": 63.369,
+        "lng": -134.593
+      },
+      {
+        "lat": 63.560,
+        "lng": -134.967
+      }
+    ]
+
+  },
+  {
+    "id": 31,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.694,
+        "lng": -135.337
+      },
+      {
+        "lat": 63.282,
+        "lng": -134.623
+      },
+      {
+        "lat": 62.567,
+        "lng": -136.172
+      },
+      {
+        "lat": 63.223,
+        "lng": -137.040
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.096,
+        "lng": -135.963
+      },
+      {
+        "lat": 64.467,
+        "lng": -136.524
+      },
+      {
+        "lat": 63.743,
+        "lng": -135.392
+      },
+      {
+        "lat": 63.307,
+        "lng": -137.150
+      },
+      {
+        "lat": 64.172,
+        "lng": -138.312
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.121,
+        "lng": -135.254
+      },
+      {
+        "lat": 63.904,
+        "lng": -134.881
+      },
+      {
+        "lat": 63.991,
+        "lng": -135.661
+      },
+      {
+        "lat": 63.769,
+        "lng": -135.298
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.383,
+        "lng": -135.617
+      },
+      {
+        "lat": 64.264,
+        "lng": -135.496
+      },
+      {
+        "lat": 64.164,
+        "lng": -135.320
+      },
+      {
+        "lat": 64.250,
+        "lng": -136.045
+      },
+      {
+        "lat": 64.032,
+        "lng": -135.731
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.598,
+        "lng": -135.884
+      },
+      {
+        "lat": 64.433,
+        "lng": -135.664
+      },
+      {
+        "lat": 64.285,
+        "lng": -136.115
+      },
+      {
+        "lat": 64.480,
+        "lng": -136.445
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.884,
+        "lng": -136.939
+      },
+      {
+        "lat": 64.518,
+        "lng": -136.609
+      },
+      {
+        "lat": 64.433,
+        "lng": -137.192
+      },
+      {
+        "lat": 64.805,
+        "lng": -137.510
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.186,
+        "lng": -137.488
+      },
+      {
+        "lat": 65.213,
+        "lng": -137.214
+      },
+      {
+        "lat": 64.945,
+        "lng": -136.972
+      },
+      {
+        "lat": 65.176,
+        "lng": -137.774
+      },
+      {
+        "lat": 64.853,
+        "lng": -137.527
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.361,
+        "lng": -136.534
+      },
+      {
+        "lat": 65.153,
+        "lng": -136.446
+      },
+      {
+        "lat": 65.028,
+        "lng": -136.358
+      },
+      {
+        "lat": 64.958,
+        "lng": -136.852
+      },
+      {
+        "lat": 65.245,
+        "lng": -137.105
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.540,
+        "lng": -137.765
+      },
+      {
+        "lat": 65.631,
+        "lng": -137.315
+      },
+      {
+        "lat": 65.267,
+        "lng": -137.275
+      },
+      {
+        "lat": 65.235,
+        "lng": -137.769
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.658,
+        "lng": -137.194
+      },
+      {
+        "lat": 65.731,
+        "lng": -136.799
+      },
+      {
+        "lat": 65.409,
+        "lng": -136.550
+      },
+      {
+        "lat": 65.294,
+        "lng": -137.154
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.134,
+        "lng": -138.721
+      },
+      {
+        "lat": 66.311,
+        "lng": -138.282
+      },
+      {
+        "lat": 65.682,
+        "lng": -137.374
+      },
+      {
+        "lat": 65.591,
+        "lng": -137.802
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "Territory Areas",
+    "title": "Território vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+      
+        {
+          "lat": 66.579,
+          "lng": -137.633
+        },
+        {
+          "lat": 66.351,
+          "lng": -138.194
+        },
+        {
+          "lat": 65.777,
+          "lng": -136.835
+        },
+        {
+          "lat": 65.700,
+          "lng": -137.264
+        },
+        {
+          "lat": 66.427,
+          "lng": -137.305
+        }
+      ]
   }
 ]
