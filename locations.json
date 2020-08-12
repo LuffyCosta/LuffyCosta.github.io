@@ -495,15 +495,39 @@
     "strokecolor": "#000",
     "fillcolor": "#747474",
     "latlngarray": [
-      {"lat": 64.224, "lng": -126.530},
-      {"lat": 64.481, "lng": -125.585},
-      {"lat": 64.485, "lng": -123.542},
-      {"lat": 64.400, "lng": -123.223},
-      {"lat": 64.037, "lng": -123.981},
-      {"lat": 64.181, "lng": -124.465},
-      {"lat": 64.138, "lng": -125.278},
-      {"lat": 63.941, "lng": -125.739},
-      {"lat": 64.224, "lng": -126.530}
+
+      {
+        "lat": 64.485,
+        "lng": -125.581
+      },
+      {
+        "lat": 64.480,
+        "lng": -123.538
+      },
+      {
+        "lat": 64.219,
+        "lng": -126.526
+      },
+      {
+        "lat": 64.402,
+        "lng": -123.250
+      },
+      {
+        "lat": 64.029,
+        "lng": -123.997
+      },
+      {
+        "lat": 64.188,
+        "lng": -124.459
+      },
+      {
+        "lat": 64.146,
+        "lng": -125.290
+      },
+      {
+        "lat": 63.959,
+        "lng": -125.763
+      }
     ]
   },
   {
@@ -551,24 +575,24 @@
     "latlngarray": [
 
       {
-        "lat": 63.765,
-        "lng": -125.748
+        "lat": 63.497,
+        "lng": -125.033
       },
       {
-        "lat": 63.496,
-        "lng": -125.023
-      },
-      {
-        "lat": 63.487,
-        "lng": -126.220
-      },
-      {
-        "lat": 63.047,
-        "lng": -125.869
+        "lat": 63.042,
+        "lng": -125.846
       },
       {
         "lat": 63.186,
-        "lng": -126.229
+        "lng": -126.241
+      },
+      {
+        "lat": 63.526,
+        "lng": -126.219
+      },
+      {
+        "lat": 63.765,
+        "lng": -125.736
       }
     ]
   },
@@ -1009,24 +1033,20 @@
     "latlngarray": [
 
       {
-        "lat": 64.096,
-        "lng": -135.963
+        "lat": 64.470,
+        "lng": -136.532
       },
       {
-        "lat": 64.467,
-        "lng": -136.524
+        "lat": 63.750,
+        "lng": -135.401
       },
       {
-        "lat": 63.743,
-        "lng": -135.392
+        "lat": 63.304,
+        "lng": -137.169
       },
       {
-        "lat": 63.307,
-        "lng": -137.150
-      },
-      {
-        "lat": 64.172,
-        "lng": -138.312
+        "lat": 64.203,
+        "lng": -138.334
       }
     ]
   },
@@ -1043,24 +1063,20 @@
     "latlngarray": [
 
       {
-        "lat": 64.383,
-        "lng": -135.617
+        "lat": 64.376,
+        "lng": -135.601
       },
       {
-        "lat": 64.264,
-        "lng": -135.496
+        "lat": 64.157,
+        "lng": -135.304
       },
       {
-        "lat": 64.164,
-        "lng": -135.320
+        "lat": 64.023,
+        "lng": -135.733
       },
       {
-        "lat": 64.250,
-        "lng": -136.045
-      },
-      {
-        "lat": 64.032,
-        "lng": -135.731
+        "lat": 64.238,
+        "lng": -136.040
       }
     ]
   },
@@ -4930,7 +4946,7 @@
   {
     "id": 145,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 145",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -4963,7 +4979,7 @@
   {
     "id": 146,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 146",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5004,7 +5020,7 @@
   {
     "id": 147,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 147",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5053,7 +5069,7 @@
   {
     "id": 148,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 148",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5098,7 +5114,7 @@
   {
     "id": 149,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 149",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5127,7 +5143,7 @@
   {
     "id": 150,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 150",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5160,7 +5176,7 @@
   {
     "id": 151,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 151",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5189,7 +5205,7 @@
   {
     "id": 152,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 152",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5218,7 +5234,7 @@
   {
     "id": 153,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 153",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5247,7 +5263,7 @@
   {
     "id": 154,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 154",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5280,7 +5296,7 @@
   {
     "id": 155,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 155",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5353,7 +5369,7 @@
   {
     "id": 156,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 156",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5390,7 +5406,7 @@
   {
     "id": 157,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 157",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5423,7 +5439,7 @@
   {
     "id": 158,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 158",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5452,7 +5468,7 @@
   {
     "id": 159,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 159",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5481,7 +5497,7 @@
   {
     "id": 160,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 160",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5510,7 +5526,7 @@
   {
     "id": 161,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 161",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5543,7 +5559,7 @@
   {
     "id": 162,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 162",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5580,7 +5596,7 @@
   {
     "id": 163,
     "type": "Territory Areas",
-    "title": "Territorio vazio",
+    "title": "Territorio vazio 163",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -5611,6 +5627,1344 @@
       {
         "lat": 83.307,
         "lng": -124.912
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 164",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.730,
+        "lng": -135.208
+      },
+      {
+        "lat": 63.851,
+        "lng": -134.834
+      },
+      {
+        "lat": 63.564,
+        "lng": -134.428
+      },
+      {
+        "lat": 63.486,
+        "lng": -134.450
+      },
+      {
+        "lat": 63.358,
+        "lng": -134.581
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 165",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.487,
+        "lng": -114.628
+      },
+      {
+        "lat": 68.333,
+        "lng": -114.980
+      },
+      {
+        "lat": 68.244,
+        "lng": -115.474
+      },
+      {
+        "lat": 68.166,
+        "lng": -116.595
+      },
+      {
+        "lat": 68.080,
+        "lng": -117.265
+      },
+      {
+        "lat": 67.998,
+        "lng": -117.045
+      },
+      {
+        "lat": 67.907,
+        "lng": -116.869
+      },
+      {
+        "lat": 67.750,
+        "lng": -116.869
+      },
+      {
+        "lat": 67.478,
+        "lng": -116.814
+      },
+      {
+        "lat": 67.334,
+        "lng": -116.276
+      },
+      {
+        "lat": 67.190,
+        "lng": -115.705
+      },
+      {
+        "lat": 67.028,
+        "lng": -115.221
+      },
+      {
+        "lat": 66.829,
+        "lng": -114.837
+      },
+      {
+        "lat": 66.708,
+        "lng": -114.485
+      },
+      {
+        "lat": 66.686,
+        "lng": -113.310
+      },
+      {
+        "lat": 66.920,
+        "lng": -113.090
+      },
+      {
+        "lat": 66.924,
+        "lng": -114.474
+      },
+      {
+        "lat": 67.032,
+        "lng": -114.793
+      },
+      {
+        "lat": 67.419,
+        "lng": -115.375
+      },
+      {
+        "lat": 67.612,
+        "lng": -116.144
+      },
+      {
+        "lat": 67.816,
+        "lng": -116.177
+      },
+      {
+        "lat": 67.899,
+        "lng": -115.826
+      },
+      {
+        "lat": 67.994,
+        "lng": -115.309
+      },
+      {
+        "lat": 68.325,
+        "lng": -114.145
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 166",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.555,
+        "lng": -115.472
+      },
+      {
+        "lat": 67.437,
+        "lng": -115.142
+      },
+      {
+        "lat": 67.340,
+        "lng": -115.065
+      },
+      {
+        "lat": 67.382,
+        "lng": -114.835
+      },
+      {
+        "lat": 67.734,
+        "lng": -114.681
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 167",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.231,
+        "lng": -114.139
+      },
+      {
+        "lat": 67.890,
+        "lng": -114.282
+      },
+      {
+        "lat": 67.812,
+        "lng": -114.787
+      },
+      {
+        "lat": 67.603,
+        "lng": -115.655
+      },
+      {
+        "lat": 67.662,
+        "lng": -115.963
+      },
+      {
+        "lat": 67.820,
+        "lng": -115.897
+      },
+      {
+        "lat": 67.923,
+        "lng": -115.227
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 168",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.307,
+        "lng": -113.922
+      },
+      {
+        "lat": 68.380,
+        "lng": -113.647
+      },
+      {
+        "lat": 68.392,
+        "lng": -113.516
+      },
+      {
+        "lat": 68.343,
+        "lng": -112.977
+      },
+      {
+        "lat": 67.934,
+        "lng": -113.197
+      },
+      {
+        "lat": 67.897,
+        "lng": -114.032
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 169",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.336,
+        "lng": -112.702
+      },
+      {
+        "lat": 68.283,
+        "lng": -112.405
+      },
+      {
+        "lat": 68.206,
+        "lng": -112.263
+      },
+      {
+        "lat": 68.091,
+        "lng": -112.153
+      },
+      {
+        "lat": 67.803,
+        "lng": -112.372
+      },
+      {
+        "lat": 67.861,
+        "lng": -112.702
+      },
+      {
+        "lat": 67.902,
+        "lng": -112.966
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 170",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.801,
+        "lng": -113.021
+      },
+      {
+        "lat": 67.792,
+        "lng": -112.813
+      },
+      {
+        "lat": 67.730,
+        "lng": -112.637
+      },
+      {
+        "lat": 67.701,
+        "lng": -112.406
+      },
+      {
+        "lat": 67.521,
+        "lng": -112.340
+      },
+      {
+        "lat": 67.331,
+        "lng": -112.077
+      },
+      {
+        "lat": 67.161,
+        "lng": -112.132
+      },
+      {
+        "lat": 67.024,
+        "lng": -112.362
+      },
+      {
+        "lat": 66.964,
+        "lng": -112.802
+      },
+      {
+        "lat": 67.284,
+        "lng": -112.868
+      },
+      {
+        "lat": 67.609,
+        "lng": -113.032
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 171",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.916,
+        "lng": -112.025
+      },
+      {
+        "lat": 67.784,
+        "lng": -112.156
+      },
+      {
+        "lat": 67.584,
+        "lng": -112.156
+      },
+      {
+        "lat": 67.386,
+        "lng": -110.981
+      },
+      {
+        "lat": 67.788,
+        "lng": -110.772
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 172",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.217,
+        "lng": -111.886
+      },
+      {
+        "lat": 66.973,
+        "lng": -112.182
+      },
+      {
+        "lat": 66.770,
+        "lng": -110.842
+      },
+      {
+        "lat": 67.140,
+        "lng": -110.710
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 173",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.217,
+        "lng": -111.886
+      },
+      {
+        "lat": 66.973,
+        "lng": -112.182
+      },
+      {
+        "lat": 66.770,
+        "lng": -110.842
+      },
+      {
+        "lat": 67.140,
+        "lng": -110.710
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 174",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.087,
+        "lng": -115.340
+      },
+      {
+        "lat": 68.985,
+        "lng": -114.845
+      },
+      {
+        "lat": 68.743,
+        "lng": -115.241
+      },
+      {
+        "lat": 68.862,
+        "lng": -115.746
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 175",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.257,
+        "lng": -116.071
+      },
+      {
+        "lat": 69.144,
+        "lng": -115.544
+      },
+      {
+        "lat": 68.904,
+        "lng": -115.928
+      },
+      {
+        "lat": 69.042,
+        "lng": -116.478
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 176",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.426,
+        "lng": -116.884
+      },
+      {
+        "lat": 69.294,
+        "lng": -116.290
+      },
+      {
+        "lat": 69.076,
+        "lng": -116.664
+      },
+      {
+        "lat": 69.174,
+        "lng": -117.202
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 177",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.326,
+        "lng": -130.575
+      },
+      {
+        "lat": 68.330,
+        "lng": -129.564
+      },
+      {
+        "lat": 68.216,
+        "lng": -127.004
+      },
+      {
+        "lat": 68.139,
+        "lng": -126.829
+      },
+      {
+        "lat": 68.032,
+        "lng": -126.642
+      },
+      {
+        "lat": 68.032,
+        "lng": -127.795
+      },
+      {
+        "lat": 67.954,
+        "lng": -128.323
+      },
+      {
+        "lat": 67.942,
+        "lng": -128.532
+      },
+      {
+        "lat": 68.020,
+        "lng": -128.861
+      },
+      {
+        "lat": 68.061,
+        "lng": -129.432
+      },
+      {
+        "lat": 68.024,
+        "lng": -130.608
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 178",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.437,
+        "lng": -126.971
+      },
+      {
+        "lat": 69.262,
+        "lng": -125.510
+      },
+      {
+        "lat": 68.941,
+        "lng": -125.719
+      },
+      {
+        "lat": 68.397,
+        "lng": -126.191
+      },
+      {
+        "lat": 68.308,
+        "lng": -126.784
+      },
+      {
+        "lat": 68.389,
+        "lng": -126.971
+      },
+      {
+        "lat": 68.850,
+        "lng": -127.169
+      },
+      {
+        "lat": 69.208,
+        "lng": -127.114
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 179",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 71.083,
+        "lng": -122.296
+      },
+      {
+        "lat": 70.958,
+        "lng": -122.099
+      },
+      {
+        "lat": 70.886,
+        "lng": -122.066
+      },
+      {
+        "lat": 70.818,
+        "lng": -122.143
+      },
+      {
+        "lat": 70.875,
+        "lng": -122.692
+      },
+      {
+        "lat": 70.875,
+        "lng": -123.087
+      },
+      {
+        "lat": 70.850,
+        "lng": -123.340
+      },
+      {
+        "lat": 70.767,
+        "lng": -123.856
+      },
+      {
+        "lat": 70.900,
+        "lng": -123.637
+      },
+      {
+        "lat": 70.983,
+        "lng": -123.219
+      },
+      {
+        "lat": 71.037,
+        "lng": -122.846
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 180",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 71.052,
+        "lng": -122.082
+      },
+      {
+        "lat": 70.981,
+        "lng": -121.720
+      },
+      {
+        "lat": 70.830,
+        "lng": -120.566
+      },
+      {
+        "lat": 70.758,
+        "lng": -120.456
+      },
+      {
+        "lat": 70.674,
+        "lng": -120.522
+      },
+      {
+        "lat": 70.805,
+        "lng": -121.961
+      },
+      {
+        "lat": 70.916,
+        "lng": -121.862
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 181",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.769,
+        "lng": -122.198
+      },
+      {
+        "lat": 70.367,
+        "lng": -122.627
+      },
+      {
+        "lat": 70.550,
+        "lng": -124.165
+      },
+      {
+        "lat": 70.693,
+        "lng": -123.989
+      },
+      {
+        "lat": 70.834,
+        "lng": -123.253
+      },
+      {
+        "lat": 70.845,
+        "lng": -122.704
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 182",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.613,
+        "lng": -120.424
+      },
+      {
+        "lat": 70.456,
+        "lng": -119.171
+      },
+      {
+        "lat": 70.010,
+        "lng": -119.611
+      },
+      {
+        "lat": 70.156,
+        "lng": -120.951
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 183",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.438,
+        "lng": -118.983
+      },
+      {
+        "lat": 70.187,
+        "lng": -116.917
+      },
+      {
+        "lat": 69.773,
+        "lng": -117.884
+      },
+      {
+        "lat": 69.977,
+        "lng": -119.488
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 184",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.469,
+        "lng": -124.239
+      },
+      {
+        "lat": 70.277,
+        "lng": -122.745
+      },
+      {
+        "lat": 69.614,
+        "lng": -123.437
+      },
+      {
+        "lat": 69.805,
+        "lng": -124.953
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 185",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.268,
+        "lng": -122.541
+      },
+      {
+        "lat": 70.120,
+        "lng": -121.277
+      },
+      {
+        "lat": 69.444,
+        "lng": -121.959
+      },
+      {
+        "lat": 69.609,
+        "lng": -123.233
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 186",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.054,
+        "lng": -120.981
+      },
+      {
+        "lat": 69.911,
+        "lng": -119.794
+      },
+      {
+        "lat": 69.380,
+        "lng": -120.574
+      },
+      {
+        "lat": 69.353,
+        "lng": -120.849
+      },
+      {
+        "lat": 69.337,
+        "lng": -121.167
+      },
+      {
+        "lat": 69.396,
+        "lng": -121.662
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 187",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.747,
+        "lng": -124.875
+      },
+      {
+        "lat": 69.667,
+        "lng": -124.238
+      },
+      {
+        "lat": 69.263,
+        "lng": -124.622
+      },
+      {
+        "lat": 69.344,
+        "lng": -125.150
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 188",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.655,
+        "lng": -124.129
+      },
+      {
+        "lat": 69.567,
+        "lng": -123.469
+      },
+      {
+        "lat": 69.168,
+        "lng": -123.898
+      },
+      {
+        "lat": 69.250,
+        "lng": -124.524
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 189",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.543,
+        "lng": -123.301
+      },
+      {
+        "lat": 69.478,
+        "lng": -122.730
+      },
+      {
+        "lat": 69.070,
+        "lng": -123.137
+      },
+      {
+        "lat": 69.152,
+        "lng": -123.763
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 190",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.454,
+        "lng": -122.581
+      },
+      {
+        "lat": 69.369,
+        "lng": -122.053
+      },
+      {
+        "lat": 68.967,
+        "lng": -122.460
+      },
+      {
+        "lat": 69.050,
+        "lng": -122.998
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 191",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.328,
+        "lng": -121.740
+      },
+      {
+        "lat": 69.207,
+        "lng": -120.828
+      },
+      {
+        "lat": 68.810,
+        "lng": -121.190
+      },
+      {
+        "lat": 68.937,
+        "lng": -122.146
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 192",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.179,
+        "lng": -120.573
+      },
+      {
+        "lat": 69.101,
+        "lng": -119.782
+      },
+      {
+        "lat": 68.932,
+        "lng": -119.661
+      },
+      {
+        "lat": 68.848,
+        "lng": -119.606
+      },
+      {
+        "lat": 68.633,
+        "lng": -119.969
+      },
+      {
+        "lat": 68.765,
+        "lng": -120.958
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 193",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.237,
+        "lng": -125.242
+      },
+      {
+        "lat": 69.073,
+        "lng": -124.022
+      },
+      {
+        "lat": 68.781,
+        "lng": -124.363
+      },
+      {
+        "lat": 68.928,
+        "lng": -125.461
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 194",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.041,
+        "lng": -123.768
+      },
+      {
+        "lat": 68.883,
+        "lng": -122.560
+      },
+      {
+        "lat": 68.577,
+        "lng": -122.834
+      },
+      {
+        "lat": 68.737,
+        "lng": -124.109
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 195",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.834,
+        "lng": -122.223
+      },
+      {
+        "lat": 68.710,
+        "lng": -121.333
+      },
+      {
+        "lat": 68.397,
+        "lng": -121.586
+      },
+      {
+        "lat": 68.530,
+        "lng": -122.553
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 196",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.649,
+        "lng": -121.071
+      },
+      {
+        "lat": 68.528,
+        "lng": -120.236
+      },
+      {
+        "lat": 68.415,
+        "lng": -120.456
+      },
+      {
+        "lat": 68.330,
+        "lng": -120.884
+      },
+      {
+        "lat": 68.322,
+        "lng": -121.093
+      },
+      {
+        "lat": 68.415,
+        "lng": -121.269
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 197",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.994,
+        "lng": -126.266
+      },
+      {
+        "lat": 68.688,
+        "lng": -125.662
+      },
+      {
+        "lat": 68.744,
+        "lng": -125.387
+      },
+      {
+        "lat": 68.760,
+        "lng": -125.069
+      },
+      {
+        "lat": 68.692,
+        "lng": -124.640
+      },
+      {
+        "lat": 68.592,
+        "lng": -124.563
+      },
+      {
+        "lat": 67.945,
+        "lng": -125.168
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "type": "Territory Areas",
+    "title": "Territorio vazio 198",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.627,
+        "lng": -124.171
+      },
+      {
+        "lat": 68.462,
+        "lng": -122.973
+      },
+      {
+        "lat": 68.014,
+        "lng": -123.468
+      },
+      {
+        "lat": 68.010,
+        "lng": -123.929
+      },
+      {
+        "lat": 67.953,
+        "lng": -124.390
+      },
+      {
+        "lat": 67.965,
+        "lng": -124.808
+      },
+      {
+        "lat": 68.231,
+        "lng": -124.621
+      },
+      {
+        "lat": 68.462,
+        "lng": -124.379
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "type": "Neutral Zones",
+    "title": "Mission Row PD",
+    "notes": "Oink oink oink oink. Snort. More like a pig pen.",
+    "order": 2,
+    "strokecolor": "#FF0000",
+    "fillcolor": "#0000FF",
+    "latlngarray": [
+      {
+        "lat": 66.151,
+        "lng": -120.516
+      },
+      {
+        "lat": 65.906,
+        "lng": -120.516
+      },
+      {
+        "lat": 65.937,
+        "lng": -119.813
+      },
+      {
+        "lat": 66.151,
+        "lng": -119.813
       }
     ]
   }
