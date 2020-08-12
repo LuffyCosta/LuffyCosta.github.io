@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "Territory Areas",
-    "title": "Território vazio ",
+    "title": "Territ�rio vazio ",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -122,7 +122,7 @@
   {
     "id": 3,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -151,7 +151,7 @@
   {
     "id": 4,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -181,7 +181,7 @@
   {
     "id": 5,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -206,7 +206,7 @@
   {
     "id": 6,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -235,7 +235,7 @@
   {
     "id": 7,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -264,7 +264,7 @@
   {
     "id": 8,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -293,7 +293,7 @@
   {
     "id": 9,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -322,7 +322,7 @@
   {
     "id": 10,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -331,31 +331,35 @@
     "latlngarray": [
 
       {
-        "lat": 63.481,
-        "lng": -120.110
+        "lat": 64.211,
+        "lng": -120.033
       },
       {
-        "lat": 64.212,
-        "lng": -120.044
+        "lat": 64.187,
+        "lng": -119.539
       },
       {
-        "lat": 64.198,
-        "lng": -119.538
+        "lat": 64.015,
+        "lng": -119.616
       },
       {
-        "lat": 63.909,
-        "lng": -121.208
+        "lat": 63.865,
+        "lng": -119.550
       },
       {
-        "lat": 63.880,
-        "lng": -119.560
+        "lat": 63.480,
+        "lng": -120.099
+      },
+      {
+        "lat": 63.899,
+        "lng": -121.198
       }
     ]
   },
   {
     "id": 11,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -364,35 +368,39 @@
     "latlngarray": [
 
       {
-        "lat": 64.303,
-        "lng": -119.472
+        "lat": 64.924,
+        "lng": -120.665
       },
       {
-        "lat": 64.929,
-        "lng": -120.670
+        "lat": 64.934,
+        "lng": -119.819
       },
       {
-        "lat": 64.938,
-        "lng": -119.835
+        "lat": 64.775,
+        "lng": -119.776
       },
       {
-        "lat": 64.312,
-        "lng": -119.912
+        "lat": 64.601,
+        "lng": -119.490
       },
       {
-        "lat": 64.611,
-        "lng": -119.483
+        "lat": 64.298,
+        "lng": -119.457
       },
       {
-        "lat": 64.705,
-        "lng": -121.065
+        "lat": 64.307,
+        "lng": -119.907
+      },
+      {
+        "lat": 64.704,
+        "lng": -121.094
       }
     ]
   },
   {
     "id": 12,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -421,7 +429,7 @@
   {
     "id": 13,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -450,7 +458,7 @@
   {
     "id": 14,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -479,7 +487,7 @@
   {
     "id": 15,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -524,7 +532,7 @@
   {
     "id": 16,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -533,31 +541,31 @@
     "latlngarray": [
 
       {
-        "lat": 63.869,
-        "lng": -125.567
-      },
-      {
-        "lat": 64.086,
-        "lng": -124.545
-      },
-      {
-        "lat": 64.062,
-        "lng": -125.160
+        "lat": 63.931,
+        "lng": -124.147
       },
       {
         "lat": 63.587,
-        "lng": -124.842
+        "lng": -124.817
       },
       {
-        "lat": 63.946,
-        "lng": -124.161
+        "lat": 63.864,
+        "lng": -125.542
+      },
+      {
+        "lat": 64.068,
+        "lng": -125.142
+      },
+      {
+        "lat": 64.083,
+        "lng": -124.516
       }
     ]
   },
   {
     "id": 17,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -590,7 +598,7 @@
   {
     "id": 18,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -599,59 +607,51 @@
     "latlngarray": [
 
       {
-        "lat": 63.831,
-        "lng": -125.923
+        "lat": 62.951,
+        "lng": -125.996
       },
       {
-        "lat": 63.563,
-        "lng": -126.440
+        "lat": 62.834,
+        "lng": -126.217
       },
       {
-        "lat": 63.342,
-        "lng": -127.890
+        "lat": 63.089,
+        "lng": -126.975
       },
       {
-        "lat": 64.206,
-        "lng": -127.121
+        "lat": 63.326,
+        "lng": -127.876
       },
       {
-        "lat": 63.144,
-        "lng": -126.461
+        "lat": 63.704,
+        "lng": -127.360
       },
       {
-        "lat": 63.098,
-        "lng": -127.009
+        "lat": 64.210,
+        "lng": -127.107
       },
       {
-        "lat": 62.958,
-        "lng": -126.031
+        "lat": 64.201,
+        "lng": -126.920
       },
       {
-        "lat": 62.843,
-        "lng": -126.229
+        "lat": 63.820,
+        "lng": -125.931
       },
       {
-        "lat": 63.699,
-        "lng": -127.355
+        "lat": 63.547,
+        "lng": -126.459
       },
       {
-        "lat": 63.999,
-        "lng": -127.124
-      },
-      {
-        "lat": 64.205,
-        "lng": -126.938
-      },
-      {
-        "lat": 64.071,
-        "lng": -126.564
+        "lat": 63.119,
+        "lng": -126.426
       }
     ]
   },
   {
     "id": 19,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -680,7 +680,7 @@
   {
     "id": 20,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -689,27 +689,27 @@
     "latlngarray": [
 
       {
-        "lat": 61.377,
-        "lng": -116.817
+        "lat": 61.387,
+        "lng": -116.809
       },
       {
-        "lat": 60.658,
-        "lng": -115.763
+        "lat": 61.334,
+        "lng": -115.634
       },
       {
-        "lat": 61.319,
-        "lng": -115.642
+        "lat": 60.657,
+        "lng": -115.765
       },
       {
-        "lat": 60.707,
-        "lng": -116.938
+        "lat": 60.703,
+        "lng": -116.941
       }
     ]
   },
   {
     "id": 21,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -719,26 +719,26 @@
 
       {
         "lat": 60.577,
-        "lng": -116.949
+        "lng": -116.926
       },
       {
-        "lat": 59.647,
-        "lng": -115.927
+        "lat": 60.533,
+        "lng": -115.783
       },
       {
-        "lat": 60.540,
-        "lng": -115.785
+        "lat": 59.645,
+        "lng": -115.922
       },
       {
-        "lat": 59.697,
-        "lng": -117.125
+        "lat": 59.696,
+        "lng": -117.113
       }
     ]
   },
   {
     "id": 22,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -747,27 +747,27 @@
     "latlngarray": [
 
       {
-        "lat": 61.324,
-        "lng": -114.334
+        "lat": 61.316,
+        "lng": -115.399
       },
       {
-        "lat": 59.575,
-        "lng": -114.664
+        "lat": 61.321,
+        "lng": -114.322
       },
       {
-        "lat": 61.308,
-        "lng": -115.411
+        "lat": 59.577,
+        "lng": -114.641
       },
       {
-        "lat": 59.641,
-        "lng": -115.697
+        "lat": 59.649,
+        "lng": -115.673
       }
     ]
   },
   {
     "id": 22,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -796,7 +796,7 @@
   {
     "id": 23,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -845,7 +845,7 @@
   {
     "id": 24,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -854,43 +854,39 @@
     "latlngarray": [
 
       {
-        "lat": 64.179,
-        "lng": -114.554
+        "lat": 64.150,
+        "lng": -112.456
       },
       {
-        "lat": 63.613,
-        "lng": -116.180
+        "lat": 63.491,
+        "lng": -111.753
       },
       {
-        "lat": 64.164,
-        "lng": -115.982
+        "lat": 63.269,
+        "lng": -112.434
       },
       {
-        "lat": 63.934,
-        "lng": -116.466
+        "lat": 63.071,
+        "lng": -113.401
       },
       {
-        "lat": 62.955,
-        "lng": -116.338
+        "lat": 63.412,
+        "lng": -113.753
       },
       {
-        "lat": 62.865,
-        "lng": -115.173
+        "lat": 63.822,
+        "lng": -113.906
       },
       {
-        "lat": 62.915,
-        "lng": -114.294
-      },
-      {
-        "lat": 63.588,
-        "lng": -114.514
+        "lat": 64.193,
+        "lng": -113.895
       }
     ]
   },
   {
     "id": 25,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -923,7 +919,7 @@
   {
     "id": 26,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -932,39 +928,31 @@
     "latlngarray": [
 
       {
-        "lat": 64.195,
-        "lng": -113.840
+        "lat": 63.497,
+        "lng": -125.029
       },
       {
-        "lat": 63.073,
-        "lng": -113.445
+        "lat": 63.042,
+        "lng": -125.875
       },
       {
-        "lat": 63.713,
-        "lng": -112.072
+        "lat": 63.186,
+        "lng": -126.227
       },
       {
-        "lat": 63.493,
-        "lng": -111.764
+        "lat": 63.511,
+        "lng": -126.227
       },
       {
-        "lat": 64.190,
-        "lng": -112.467
-      },
-      {
-        "lat": 63.271,
-        "lng": -112.442
-      },
-      {
-        "lat": 63.705,
-        "lng": -113.898
+        "lat": 63.750,
+        "lng": -125.732
       }
     ]
   },
   {
     "id": 27,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -973,43 +961,39 @@
     "latlngarray": [
 
       {
-        "lat": 62.862,
-        "lng": -117.948
+        "lat": 62.825,
+        "lng": -117.310
       },
       {
-        "lat": 62.842,
-        "lng": -116.838
+        "lat": 62.820,
+        "lng": -116.848
       },
       {
-        "lat": 62.807,
-        "lng": -117.882
+        "lat": 62.365,
+        "lng": -116.969
       },
       {
-        "lat": 61.551,
-        "lng": -118.090
+        "lat": 61.523,
+        "lng": -117.332
       },
       {
-        "lat": 61.524,
-        "lng": -117.343
+        "lat": 61.533,
+        "lng": -117.595
       },
       {
-        "lat": 62.395,
-        "lng": -116.971
+        "lat": 61.799,
+        "lng": -117.727
       },
       {
-        "lat": 61.967,
-        "lng": -117.190
-      },
-      {
-        "lat": 62.172,
-        "lng": -118.036
+        "lat": 62.547,
+        "lng": -117.616
       }
     ]
   },
   {
     "id": 28,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1042,7 +1026,7 @@
   {
     "id": 29,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1051,40 +1035,43 @@
     "latlngarray": [
 
       {
-        "lat": 65.108,
-        "lng": -112.615
+        "lat": 64.392,
+        "lng": -123.219
       },
       {
-        "lat": 64.524,
-        "lng": -112.681
+        "lat": 64.024,
+        "lng": -123.988
       },
       {
-        "lat": 64.301,
-        "lng": -112.571
+        "lat": 64.178,
+        "lng": -124.450
       },
       {
-        "lat": 64.315,
-        "lng": -113.857
+        "lat": 64.140,
+        "lng": -125.285
       },
       {
-        "lat": 64.764,
-        "lng": -113.758
+        "lat": 63.947,
+        "lng": -125.746
       },
       {
-        "lat": 64.955,
-        "lng": -113.516
+        "lat": 64.216,
+        "lng": -126.548
       },
       {
-        "lat": 65.071,
-        "lng": -113.154
+        "lat": 64.478,
+        "lng": -125.592
+      },
+      {
+        "lat": 64.478,
+        "lng": -123.538
       }
     ]
-
   },
   {
     "id": 30,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1122,7 +1109,7 @@
   {
     "id": 31,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1151,7 +1138,7 @@
   {
     "id": 32,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1184,7 +1171,7 @@
   {
     "id": 33,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1193,27 +1180,27 @@
     "latlngarray": [
 
       {
-        "lat": 64.121,
-        "lng": -135.254
+        "lat": 64.453,
+        "lng": -136.522
       },
       {
-        "lat": 63.904,
-        "lng": -134.881
+        "lat": 63.738,
+        "lng": -135.369
       },
       {
-        "lat": 63.991,
-        "lng": -135.661
+        "lat": 63.307,
+        "lng": -137.138
       },
       {
-        "lat": 63.769,
-        "lng": -135.298
+        "lat": 64.168,
+        "lng": -138.291
       }
     ]
   },
   {
     "id": 34,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1246,7 +1233,7 @@
   {
     "id": 35,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1255,27 +1242,27 @@
     "latlngarray": [
 
       {
-        "lat": 64.598,
-        "lng": -135.884
+        "lat": 63.982,
+        "lng": -135.661
       },
       {
-        "lat": 64.433,
-        "lng": -135.664
+        "lat": 64.112,
+        "lng": -135.255
       },
       {
-        "lat": 64.285,
-        "lng": -136.115
+        "lat": 63.905,
+        "lng": -134.892
       },
       {
-        "lat": 64.480,
-        "lng": -136.445
+        "lat": 63.764,
+        "lng": -135.298
       }
     ]
   },
   {
     "id": 36,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1284,27 +1271,27 @@
     "latlngarray": [
 
       {
-        "lat": 64.884,
-        "lng": -136.939
+        "lat": 64.248,
+        "lng": -136.048
       },
       {
-        "lat": 64.518,
-        "lng": -136.609
+        "lat": 64.381,
+        "lng": -135.609
       },
       {
-        "lat": 64.433,
-        "lng": -137.192
+        "lat": 64.157,
+        "lng": -135.334
       },
       {
-        "lat": 64.805,
-        "lng": -137.510
+        "lat": 64.027,
+        "lng": -135.730
       }
     ]
   },
   {
     "id": 37,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1313,31 +1300,31 @@
     "latlngarray": [
 
       {
-        "lat": 65.186,
-        "lng": -137.488
+        "lat": 65.160,
+        "lng": -137.778
       },
       {
-        "lat": 65.213,
-        "lng": -137.214
+        "lat": 65.174,
+        "lng": -137.471
       },
       {
-        "lat": 64.945,
-        "lng": -136.972
+        "lat": 65.211,
+        "lng": -137.218
       },
       {
-        "lat": 65.176,
-        "lng": -137.774
+        "lat": 64.943,
+        "lng": -136.965
       },
       {
-        "lat": 64.853,
-        "lng": -137.527
+        "lat": 64.854,
+        "lng": -137.526
       }
     ]
   },
   {
     "id": 38,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1370,7 +1357,7 @@
   {
     "id": 39,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1399,7 +1386,7 @@
   {
     "id": 40,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1428,7 +1415,7 @@
   {
     "id": 41,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
@@ -1457,34 +1444,3689 @@
   {
     "id": 42,
     "type": "Territory Areas",
-    "title": "Território vazio",
+    "title": "Territ�rio vazio",
     "notes": "",
     "wiki_link": "",
     "order": 1,
     "strokecolor": "#000",
     "fillcolor": "#747474",
     "latlngarray": [
-      
-        {
-          "lat": 66.579,
-          "lng": -137.633
-        },
-        {
-          "lat": 66.351,
-          "lng": -138.194
-        },
-        {
-          "lat": 65.777,
-          "lng": -136.835
-        },
-        {
-          "lat": 65.700,
-          "lng": -137.264
-        },
-        {
-          "lat": 66.427,
-          "lng": -137.305
-        }
-      ]
+
+      {
+        "lat": 66.350,
+        "lng": -138.183
+      },
+      {
+        "lat": 66.574,
+        "lng": -137.622
+      },
+      {
+        "lat": 66.421,
+        "lng": -137.304
+      },
+      {
+        "lat": 66.098,
+        "lng": -137.062
+      },
+      {
+        "lat": 65.766,
+        "lng": -136.820
+      },
+      {
+        "lat": 65.694,
+        "lng": -137.260
+      },
+      {
+        "lat": 66.102,
+        "lng": -137.809
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.863,
+        "lng": -123.943
+      },
+      {
+        "lat": 63.552,
+        "lng": -123.097
+      },
+      {
+        "lat": 63.306,
+        "lng": -124.052
+      },
+      {
+        "lat": 63.513,
+        "lng": -124.602
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 62.914,
+        "lng": -114.283
+      },
+      {
+        "lat": 62.869,
+        "lng": -115.206
+      },
+      {
+        "lat": 62.944,
+        "lng": -116.338
+      },
+      {
+        "lat": 63.474,
+        "lng": -116.250
+      },
+      {
+        "lat": 63.805,
+        "lng": -116.371
+      },
+      {
+        "lat": 64.133,
+        "lng": -115.722
+      },
+      {
+        "lat": 64.138,
+        "lng": -114.569
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.151,
+        "lng": -121.837
+      },
+      {
+        "lat": 62.907,
+        "lng": -121.183
+      },
+      {
+        "lat": 62.504,
+        "lng": -121.952
+      },
+      {
+        "lat": 62.806,
+        "lng": -122.721
+      },
+      {
+        "lat": 62.897,
+        "lng": -122.358
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 61.600,
+        "lng": -122.930
+      },
+      {
+        "lat": 61.963,
+        "lng": -122.435
+      },
+      {
+        "lat": 62.277,
+        "lng": -121.864
+      },
+      {
+        "lat": 62.061,
+        "lng": -121.282
+      },
+      {
+        "lat": 61.490,
+        "lng": -122.303
+      },
+      {
+        "lat": 61.584,
+        "lng": -122.600
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 62.801,
+        "lng": -120.911
+      },
+      {
+        "lat": 62.523,
+        "lng": -120.186
+      },
+      {
+        "lat": 62.151,
+        "lng": -121.043
+      },
+      {
+        "lat": 62.401,
+        "lng": -121.669
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.290,
+        "lng": -119.994
+      },
+      {
+        "lat": 63.147,
+        "lng": -119.588
+      },
+      {
+        "lat": 62.832,
+        "lng": -119.906
+      },
+      {
+        "lat": 62.722,
+        "lng": -119.829
+      },
+      {
+        "lat": 62.616,
+        "lng": -120.049
+      },
+      {
+        "lat": 62.883,
+        "lng": -120.763
+      },
+      {
+        "lat": 63.112,
+        "lng": -120.368
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.714,
+        "lng": -119.210
+      },
+      {
+        "lat": 63.607,
+        "lng": -118.902
+      },
+      {
+        "lat": 63.504,
+        "lng": -118.803
+      },
+      {
+        "lat": 63.366,
+        "lng": -118.847
+      },
+      {
+        "lat": 63.312,
+        "lng": -119.287
+      },
+      {
+        "lat": 63.234,
+        "lng": -119.434
+      },
+      {
+        "lat": 63.386,
+        "lng": -119.818
+      },
+      {
+        "lat": 63.597,
+        "lng": -119.467
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 63.096,
+        "lng": -119.428
+      },
+      {
+        "lat": 62.947,
+        "lng": -118.922
+      },
+      {
+        "lat": 62.686,
+        "lng": -119.032
+      },
+      {
+        "lat": 62.493,
+        "lng": -119.021
+      },
+      {
+        "lat": 62.356,
+        "lng": -119.208
+      },
+      {
+        "lat": 62.290,
+        "lng": -119.548
+      },
+      {
+        "lat": 62.544,
+        "lng": -119.900
+      },
+      {
+        "lat": 62.691,
+        "lng": -119.636
+      },
+      {
+        "lat": 62.957,
+        "lng": -119.592
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 62.465,
+        "lng": -120.049
+      },
+      {
+        "lat": 62.409,
+        "lng": -119.928
+      },
+      {
+        "lat": 62.245,
+        "lng": -119.764
+      },
+      {
+        "lat": 62.030,
+        "lng": -120.796
+      },
+      {
+        "lat": 62.092,
+        "lng": -120.873
+      },
+      {
+        "lat": 62.307,
+        "lng": -120.412
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 61.986,
+        "lng": -121.136
+      },
+      {
+        "lat": 61.465,
+        "lng": -120.038
+      },
+      {
+        "lat": 61.027,
+        "lng": -120.928
+      },
+      {
+        "lat": 61.429,
+        "lng": -122.169
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 62.403,
+        "lng": -118.861
+      },
+      {
+        "lat": 62.357,
+        "lng": -118.664
+      },
+      {
+        "lat": 62.219,
+        "lng": -118.752
+      },
+      {
+        "lat": 62.096,
+        "lng": -118.960
+      },
+      {
+        "lat": 62.014,
+        "lng": -118.861
+      },
+      {
+        "lat": 61.869,
+        "lng": -118.905
+      },
+      {
+        "lat": 61.708,
+        "lng": -119.466
+      },
+      {
+        "lat": 61.599,
+        "lng": -119.916
+      },
+      {
+        "lat": 61.957,
+        "lng": -120.619
+      },
+      {
+        "lat": 62.091,
+        "lng": -119.883
+      },
+      {
+        "lat": 62.224,
+        "lng": -119.279
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 62.336,
+        "lng": -113.821
+      },
+      {
+        "lat": 62.039,
+        "lng": -113.382
+      },
+      {
+        "lat": 61.739,
+        "lng": -112.931
+      },
+      {
+        "lat": 61.530,
+        "lng": -112.744
+      },
+      {
+        "lat": 61.446,
+        "lng": -113.338
+      },
+      {
+        "lat": 61.457,
+        "lng": -114.019
+      },
+      {
+        "lat": 61.441,
+        "lng": -115.381
+      },
+      {
+        "lat": 62.239,
+        "lng": -115.227
+      },
+      {
+        "lat": 62.239,
+        "lng": -114.887
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.323,
+        "lng": -136.939
+      },
+      {
+        "lat": 66.855,
+        "lng": -135.137
+      },
+      {
+        "lat": 66.682,
+        "lng": -134.258
+      },
+      {
+        "lat": 66.468,
+        "lng": -133.566
+      },
+      {
+        "lat": 66.159,
+        "lng": -133.006
+      },
+      {
+        "lat": 65.580,
+        "lng": -132.215
+      },
+      {
+        "lat": 65.191,
+        "lng": -133.819
+      },
+      {
+        "lat": 64.899,
+        "lng": -135.049
+      },
+      {
+        "lat": 64.810,
+        "lng": -135.654
+      },
+      {
+        "lat": 64.992,
+        "lng": -136.071
+      },
+      {
+        "lat": 65.479,
+        "lng": -136.313
+      },
+      {
+        "lat": 66.007,
+        "lng": -136.741
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.851,
+        "lng": -134.653
+      },
+      {
+        "lat": 64.579,
+        "lng": -135.708
+      },
+      {
+        "lat": 63.561,
+        "lng": -134.302
+      },
+      {
+        "lat": 63.906,
+        "lng": -132.950
+      },
+      {
+        "lat": 64.541,
+        "lng": -133.467
+      },
+      {
+        "lat": 64.294,
+        "lng": -134.374
+      },
+      {
+        "lat": 64.522,
+        "lng": -134.363
+      },
+      {
+        "lat": 64.550,
+        "lng": -134.210
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 64.900,
+        "lng": -134.513
+      },
+      {
+        "lat": 64.577,
+        "lng": -134.095
+      },
+      {
+        "lat": 64.765,
+        "lng": -132.832
+      },
+      {
+        "lat": 64.364,
+        "lng": -132.491
+      },
+      {
+        "lat": 64.765,
+        "lng": -131.645
+      },
+      {
+        "lat": 64.984,
+        "lng": -131.250
+      },
+      {
+        "lat": 65.394,
+        "lng": -132.019
+      },
+      {
+        "lat": 65.499,
+        "lng": -132.107
+      },
+      {
+        "lat": 65.422,
+        "lng": -132.425
+      },
+      {
+        "lat": 65.367,
+        "lng": -132.524
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.561,
+        "lng": -131.876
+      },
+      {
+        "lat": 65.769,
+        "lng": -131.063
+      },
+      {
+        "lat": 65.913,
+        "lng": -130.778
+      },
+      {
+        "lat": 66.163,
+        "lng": -130.657
+      },
+      {
+        "lat": 66.154,
+        "lng": -129.932
+      },
+      {
+        "lat": 65.575,
+        "lng": -129.888
+      },
+      {
+        "lat": 65.200,
+        "lng": -130.119
+      },
+      {
+        "lat": 64.982,
+        "lng": -130.646
+      },
+      {
+        "lat": 64.982,
+        "lng": -130.899
+      },
+      {
+        "lat": 65.397,
+        "lng": -131.657
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 65.964,
+        "lng": -132.471
+      },
+      {
+        "lat": 65.622,
+        "lng": -132.043
+      },
+      {
+        "lat": 65.857,
+        "lng": -131.120
+      },
+      {
+        "lat": 66.054,
+        "lng": -130.911
+      },
+      {
+        "lat": 66.156,
+        "lng": -130.878
+      },
+      {
+        "lat": 66.174,
+        "lng": -131.416
+      },
+      {
+        "lat": 66.121,
+        "lng": -132.010
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.006,
+        "lng": -132.537
+      },
+      {
+        "lat": 66.171,
+        "lng": -132.086
+      },
+      {
+        "lat": 66.383,
+        "lng": -131.899
+      },
+      {
+        "lat": 66.606,
+        "lng": -131.888
+      },
+      {
+        "lat": 66.611,
+        "lng": -132.800
+      },
+      {
+        "lat": 66.220,
+        "lng": -132.811
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.615,
+        "lng": -131.765
+      },
+      {
+        "lat": 66.602,
+        "lng": -130.886
+      },
+      {
+        "lat": 66.223,
+        "lng": -130.864
+      },
+      {
+        "lat": 66.210,
+        "lng": -131.853
+      },
+      {
+        "lat": 66.426,
+        "lng": -131.776
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.925,
+        "lng": -134.889
+      },
+      {
+        "lat": 67.084,
+        "lng": -134.373
+      },
+      {
+        "lat": 67.246,
+        "lng": -133.648
+      },
+      {
+        "lat": 67.280,
+        "lng": -133.055
+      },
+      {
+        "lat": 66.705,
+        "lng": -133.000
+      },
+      {
+        "lat": 66.709,
+        "lng": -133.890
+      },
+      {
+        "lat": 66.843,
+        "lng": -134.560
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.279,
+        "lng": -132.894
+      },
+      {
+        "lat": 67.279,
+        "lng": -131.894
+      },
+      {
+        "lat": 66.716,
+        "lng": -131.872
+      },
+      {
+        "lat": 66.725,
+        "lng": -132.872
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.287,
+        "lng": -131.771
+      },
+      {
+        "lat": 67.287,
+        "lng": -130.892
+      },
+      {
+        "lat": 66.724,
+        "lng": -130.881
+      },
+      {
+        "lat": 66.720,
+        "lng": -131.782
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.279,
+        "lng": -130.671
+      },
+      {
+        "lat": 67.279,
+        "lng": -129.979
+      },
+      {
+        "lat": 67.134,
+        "lng": -129.957
+      },
+      {
+        "lat": 66.946,
+        "lng": -129.628
+      },
+      {
+        "lat": 66.812,
+        "lng": -129.518
+      },
+      {
+        "lat": 66.712,
+        "lng": -129.507
+      },
+      {
+        "lat": 66.721,
+        "lng": -130.660
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.280,
+        "lng": -129.787
+      },
+      {
+        "lat": 67.276,
+        "lng": -128.864
+      },
+      {
+        "lat": 66.696,
+        "lng": -128.842
+      },
+      {
+        "lat": 66.722,
+        "lng": -129.326
+      },
+      {
+        "lat": 66.943,
+        "lng": -129.436
+      },
+      {
+        "lat": 67.123,
+        "lng": -129.754
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.597,
+        "lng": -130.688
+      },
+      {
+        "lat": 66.610,
+        "lng": -129.534
+      },
+      {
+        "lat": 66.470,
+        "lng": -129.567
+      },
+      {
+        "lat": 66.214,
+        "lng": -129.897
+      },
+      {
+        "lat": 66.223,
+        "lng": -130.699
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.610,
+        "lng": -128.872
+      },
+      {
+        "lat": 66.605,
+        "lng": -129.366
+      },
+      {
+        "lat": 66.439,
+        "lng": -129.421
+      },
+      {
+        "lat": 66.161,
+        "lng": -129.762
+      },
+      {
+        "lat": 65.767,
+        "lng": -129.740
+      },
+      {
+        "lat": 65.618,
+        "lng": -128.905
+      },
+      {
+        "lat": 65.844,
+        "lng": -128.762
+      },
+      {
+        "lat": 66.072,
+        "lng": -128.795
+      },
+      {
+        "lat": 66.422,
+        "lng": -128.839
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.685,
+        "lng": -130.599
+      },
+      {
+        "lat": 67.685,
+        "lng": -129.391
+      },
+      {
+        "lat": 67.640,
+        "lng": -129.094
+      },
+      {
+        "lat": 67.564,
+        "lng": -128.874
+      },
+      {
+        "lat": 67.392,
+        "lng": -128.863
+      },
+      {
+        "lat": 67.400,
+        "lng": -130.643
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.650,
+        "lng": -133.088
+      },
+      {
+        "lat": 67.515,
+        "lng": -132.879
+      },
+      {
+        "lat": 67.414,
+        "lng": -132.660
+      },
+      {
+        "lat": 67.402,
+        "lng": -132.022
+      },
+      {
+        "lat": 67.393,
+        "lng": -130.891
+      },
+      {
+        "lat": 67.683,
+        "lng": -130.880
+      },
+      {
+        "lat": 67.712,
+        "lng": -131.418
+      },
+      {
+        "lat": 67.720,
+        "lng": -132.121
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.617,
+        "lng": -144.544
+      },
+      {
+        "lat": 68.657,
+        "lng": -145.225
+      },
+      {
+        "lat": 68.848,
+        "lng": -144.863
+      },
+      {
+        "lat": 68.959,
+        "lng": -144.280
+      },
+      {
+        "lat": 68.974,
+        "lng": -143.775
+      },
+      {
+        "lat": 68.911,
+        "lng": -143.412
+      },
+      {
+        "lat": 68.903,
+        "lng": -143.050
+      },
+      {
+        "lat": 68.757,
+        "lng": -142.742
+      },
+      {
+        "lat": 68.589,
+        "lng": -142.479
+      },
+      {
+        "lat": 68.468,
+        "lng": -142.138
+      },
+      {
+        "lat": 68.367,
+        "lng": -141.753
+      },
+      {
+        "lat": 68.339,
+        "lng": -141.523
+      },
+      {
+        "lat": 68.241,
+        "lng": -141.501
+      },
+      {
+        "lat": 68.111,
+        "lng": -141.753
+      },
+      {
+        "lat": 68.115,
+        "lng": -142.204
+      },
+      {
+        "lat": 68.258,
+        "lng": -142.742
+      },
+      {
+        "lat": 68.488,
+        "lng": -143.248
+      },
+      {
+        "lat": 68.621,
+        "lng": -143.522
+      },
+      {
+        "lat": 68.444,
+        "lng": -143.885
+      },
+      {
+        "lat": 68.343,
+        "lng": -144.335
+      },
+      {
+        "lat": 68.420,
+        "lng": -144.511
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.825,
+        "lng": -141.186
+      },
+      {
+        "lat": 68.467,
+        "lng": -139.878
+      },
+      {
+        "lat": 68.576,
+        "lng": -140.219
+      },
+      {
+        "lat": 68.443,
+        "lng": -140.559
+      },
+      {
+        "lat": 68.366,
+        "lng": -140.944
+      },
+      {
+        "lat": 68.069,
+        "lng": -141.515
+      },
+      {
+        "lat": 67.929,
+        "lng": -141.449
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.813,
+        "lng": -141.099
+      },
+      {
+        "lat": 67.701,
+        "lng": -140.714
+      },
+      {
+        "lat": 67.900,
+        "lng": -140.055
+      },
+      {
+        "lat": 68.061,
+        "lng": -140.593
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.952,
+        "lng": -139.851
+      },
+      {
+        "lat": 68.157,
+        "lng": -138.961
+      },
+      {
+        "lat": 68.446,
+        "lng": -139.785
+      },
+      {
+        "lat": 68.134,
+        "lng": -140.444
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.628,
+        "lng": -140.466
+      },
+      {
+        "lat": 67.359,
+        "lng": -139.587
+      },
+      {
+        "lat": 67.701,
+        "lng": -138.138
+      },
+      {
+        "lat": 68.061,
+        "lng": -138.764
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.315,
+        "lng": -139.422
+      },
+      {
+        "lat": 67.505,
+        "lng": -138.736
+      },
+      {
+        "lat": 67.655,
+        "lng": -138.000
+      },
+      {
+        "lat": 67.344,
+        "lng": -137.451
+      },
+      {
+        "lat": 67.038,
+        "lng": -138.505
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.683,
+        "lng": -137.860
+      },
+      {
+        "lat": 67.861,
+        "lng": -137.300
+      },
+      {
+        "lat": 67.557,
+        "lng": -136.641
+      },
+      {
+        "lat": 67.372,
+        "lng": -137.333
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.118,
+        "lng": -138.609
+      },
+      {
+        "lat": 68.248,
+        "lng": -138.049
+      },
+      {
+        "lat": 67.920,
+        "lng": -137.412
+      },
+      {
+        "lat": 67.759,
+        "lng": -137.961
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.500,
+        "lng": -139.677
+      },
+      {
+        "lat": 68.732,
+        "lng": -139.182
+      },
+      {
+        "lat": 68.326,
+        "lng": -138.227
+      },
+      {
+        "lat": 68.200,
+        "lng": -138.798
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.672,
+        "lng": -140.197
+      },
+      {
+        "lat": 68.863,
+        "lng": -140.098
+      },
+      {
+        "lat": 68.981,
+        "lng": -139.791
+      },
+      {
+        "lat": 68.776,
+        "lng": -139.285
+      },
+      {
+        "lat": 68.532,
+        "lng": -139.780
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.672,
+        "lng": -140.197
+      },
+      {
+        "lat": 68.863,
+        "lng": -140.098
+      },
+      {
+        "lat": 68.981,
+        "lng": -139.791
+      },
+      {
+        "lat": 68.776,
+        "lng": -139.285
+      },
+      {
+        "lat": 68.532,
+        "lng": -139.780
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.040,
+        "lng": -139.566
+      },
+      {
+        "lat": 69.251,
+        "lng": -138.885
+      },
+      {
+        "lat": 69.075,
+        "lng": -138.490
+      },
+      {
+        "lat": 68.846,
+        "lng": -139.094
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.822,
+        "lng": -138.997
+      },
+      {
+        "lat": 69.031,
+        "lng": -138.382
+      },
+      {
+        "lat": 68.790,
+        "lng": -137.931
+      },
+      {
+        "lat": 68.607,
+        "lng": -138.503
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.576,
+        "lng": -138.421
+      },
+      {
+        "lat": 68.708,
+        "lng": -137.916
+      },
+      {
+        "lat": 68.504,
+        "lng": -137.433
+      },
+      {
+        "lat": 68.391,
+        "lng": -137.993
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.298,
+        "lng": -137.829
+      },
+      {
+        "lat": 68.399,
+        "lng": -137.279
+      },
+      {
+        "lat": 68.122,
+        "lng": -136.829
+      },
+      {
+        "lat": 67.966,
+        "lng": -137.170
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.419,
+        "lng": -134.393
+      },
+      {
+        "lat": 67.917,
+        "lng": -133.679
+      },
+      {
+        "lat": 67.441,
+        "lng": -135.953
+      },
+      {
+        "lat": 67.826,
+        "lng": -134.239
+      },
+      {
+        "lat": 67.772,
+        "lng": -134.382
+      },
+      {
+        "lat": 67.888,
+        "lng": -137.030
+      },
+      {
+        "lat": 68.057,
+        "lng": -136.755
+      },
+      {
+        "lat": 68.159,
+        "lng": -136.403
+      },
+      {
+        "lat": 68.208,
+        "lng": -135.777
+      },
+      {
+        "lat": 68.265,
+        "lng": -135.250
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.446,
+        "lng": -137.062
+      },
+      {
+        "lat": 68.599,
+        "lng": -136.194
+      },
+      {
+        "lat": 68.751,
+        "lng": -134.909
+      },
+      {
+        "lat": 68.487,
+        "lng": -134.492
+      },
+      {
+        "lat": 68.321,
+        "lng": -135.425
+      },
+      {
+        "lat": 68.256,
+        "lng": -136.151
+      },
+      {
+        "lat": 68.215,
+        "lng": -136.491
+      },
+      {
+        "lat": 68.174,
+        "lng": -136.612
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.281,
+        "lng": -138.680
+      },
+      {
+        "lat": 68.526,
+        "lng": -137.240
+      },
+      {
+        "lat": 68.995,
+        "lng": -134.900
+      },
+      {
+        "lat": 69.246,
+        "lng": -136.241
+      },
+      {
+        "lat": 69.421,
+        "lng": -137.361
+      },
+      {
+        "lat": 69.401,
+        "lng": -137.998
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.736,
+        "lng": -135.609
+      },
+      {
+        "lat": 68.700,
+        "lng": -135.521
+      },
+      {
+        "lat": 68.724,
+        "lng": -135.158
+      },
+      {
+        "lat": 68.875,
+        "lng": -134.334
+      },
+      {
+        "lat": 68.942,
+        "lng": -134.631
+      },
+      {
+        "lat": 68.831,
+        "lng": -135.367
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.785,
+        "lng": -134.706
+      },
+      {
+        "lat": 68.877,
+        "lng": -134.234
+      },
+      {
+        "lat": 68.734,
+        "lng": -133.497
+      },
+      {
+        "lat": 68.690,
+        "lng": -133.487
+      },
+      {
+        "lat": 68.529,
+        "lng": -134.332
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.458,
+        "lng": -134.214
+      },
+      {
+        "lat": 68.658,
+        "lng": -133.126
+      },
+      {
+        "lat": 68.324,
+        "lng": -130.896
+      },
+      {
+        "lat": 68.153,
+        "lng": -130.863
+      },
+      {
+        "lat": 68.075,
+        "lng": -132.061
+      },
+      {
+        "lat": 68.046,
+        "lng": -132.533
+      },
+      {
+        "lat": 67.910,
+        "lng": -133.412
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.005,
+        "lng": -134.360
+      },
+      {
+        "lat": 68.431,
+        "lng": -130.855
+      },
+      {
+        "lat": 69.368,
+        "lng": -132.316
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.424,
+        "lng": -132.106
+      },
+      {
+        "lat": 69.327,
+        "lng": -131.952
+      },
+      {
+        "lat": 69.443,
+        "lng": -131.392
+      },
+      {
+        "lat": 69.535,
+        "lng": -131.524
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.308,
+        "lng": -131.876
+      },
+      {
+        "lat": 69.416,
+        "lng": -131.327
+      },
+      {
+        "lat": 69.054,
+        "lng": -130.734
+      },
+      {
+        "lat": 68.940,
+        "lng": -131.294
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.910,
+        "lng": -131.252
+      },
+      {
+        "lat": 69.024,
+        "lng": -130.680
+      },
+      {
+        "lat": 68.679,
+        "lng": -130.142
+      },
+      {
+        "lat": 68.563,
+        "lng": -130.691
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.441,
+        "lng": -131.214
+      },
+      {
+        "lat": 69.472,
+        "lng": -130.874
+      },
+      {
+        "lat": 69.445,
+        "lng": -130.335
+      },
+      {
+        "lat": 69.376,
+        "lng": -129.907
+      },
+      {
+        "lat": 69.232,
+        "lng": -129.665
+      },
+      {
+        "lat": 69.076,
+        "lng": -130.621
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.045,
+        "lng": -130.546
+      },
+      {
+        "lat": 69.186,
+        "lng": -129.591
+      },
+      {
+        "lat": 68.864,
+        "lng": -129.063
+      },
+      {
+        "lat": 68.701,
+        "lng": -130.041
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.492,
+        "lng": -130.621
+      },
+      {
+        "lat": 68.440,
+        "lng": -130.588
+      },
+      {
+        "lat": 68.436,
+        "lng": -129.808
+      },
+      {
+        "lat": 68.617,
+        "lng": -130.016
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.506,
+        "lng": -129.705
+      },
+      {
+        "lat": 68.630,
+        "lng": -129.914
+      },
+      {
+        "lat": 68.710,
+        "lng": -129.409
+      },
+      {
+        "lat": 68.570,
+        "lng": -129.222
+      },
+      {
+        "lat": 68.433,
+        "lng": -129.255
+      },
+      {
+        "lat": 68.441,
+        "lng": -129.683
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.729,
+        "lng": -129.281
+      },
+      {
+        "lat": 68.781,
+        "lng": -128.941
+      },
+      {
+        "lat": 68.713,
+        "lng": -128.820
+      },
+      {
+        "lat": 68.665,
+        "lng": -128.644
+      },
+      {
+        "lat": 68.400,
+        "lng": -128.754
+      },
+      {
+        "lat": 68.432,
+        "lng": -129.150
+      },
+      {
+        "lat": 68.585,
+        "lng": -129.106
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.606,
+        "lng": -128.523
+      },
+      {
+        "lat": 68.425,
+        "lng": -127.776
+      },
+      {
+        "lat": 68.348,
+        "lng": -127.809
+      },
+      {
+        "lat": 68.381,
+        "lng": -128.600
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.641,
+        "lng": -129.919
+      },
+      {
+        "lat": 69.491,
+        "lng": -130.040
+      },
+      {
+        "lat": 69.391,
+        "lng": -129.402
+      },
+      {
+        "lat": 69.345,
+        "lng": -129.249
+      },
+      {
+        "lat": 69.298,
+        "lng": -129.227
+      },
+      {
+        "lat": 69.434,
+        "lng": -128.754
+      },
+      {
+        "lat": 69.534,
+        "lng": -128.534
+      },
+      {
+        "lat": 69.637,
+        "lng": -128.479
+      },
+      {
+        "lat": 69.645,
+        "lng": -129.325
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.272,
+        "lng": -129.145
+      },
+      {
+        "lat": 69.396,
+        "lng": -128.606
+      },
+      {
+        "lat": 69.546,
+        "lng": -128.420
+      },
+      {
+        "lat": 69.627,
+        "lng": -128.376
+      },
+      {
+        "lat": 69.473,
+        "lng": -127.233
+      },
+      {
+        "lat": 69.136,
+        "lng": -127.475
+      },
+      {
+        "lat": 69.073,
+        "lng": -127.475
+      },
+      {
+        "lat": 69.030,
+        "lng": -128.002
+      },
+      {
+        "lat": 68.939,
+        "lng": -128.595
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 68.861,
+        "lng": -128.465
+      },
+      {
+        "lat": 68.996,
+        "lng": -127.498
+      },
+      {
+        "lat": 68.650,
+        "lng": -127.421
+      },
+      {
+        "lat": 68.618,
+        "lng": -127.597
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.509,
+        "lng": -135.037
+      },
+      {
+        "lat": 70.487,
+        "lng": -134.005
+      },
+      {
+        "lat": 70.391,
+        "lng": -133.356
+      },
+      {
+        "lat": 70.369,
+        "lng": -132.994
+      },
+      {
+        "lat": 69.963,
+        "lng": -133.027
+      },
+      {
+        "lat": 69.989,
+        "lng": -133.829
+      },
+      {
+        "lat": 69.933,
+        "lng": -134.202
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.908,
+        "lng": -134.160
+      },
+      {
+        "lat": 69.945,
+        "lng": -133.907
+      },
+      {
+        "lat": 69.813,
+        "lng": -133.621
+      },
+      {
+        "lat": 69.688,
+        "lng": -133.204
+      },
+      {
+        "lat": 69.661,
+        "lng": -132.720
+      },
+      {
+        "lat": 69.465,
+        "lng": -132.380
+      },
+      {
+        "lat": 69.322,
+        "lng": -133.149
+      },
+      {
+        "lat": 69.546,
+        "lng": -133.511
+      },
+      {
+        "lat": 69.745,
+        "lng": -133.951
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.354,
+        "lng": -132.872
+      },
+      {
+        "lat": 70.346,
+        "lng": -131.993
+      },
+      {
+        "lat": 70.116,
+        "lng": -131.894
+      },
+      {
+        "lat": 70.127,
+        "lng": -132.894
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.095,
+        "lng": -132.920
+      },
+      {
+        "lat": 70.106,
+        "lng": -132.382
+      },
+      {
+        "lat": 70.061,
+        "lng": -131.877
+      },
+      {
+        "lat": 70.042,
+        "lng": -131.877
+      },
+      {
+        "lat": 70.023,
+        "lng": -132.338
+      },
+      {
+        "lat": 69.967,
+        "lng": -132.854
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.914,
+        "lng": -132.843
+      },
+      {
+        "lat": 69.978,
+        "lng": -131.898
+      },
+      {
+        "lat": 69.796,
+        "lng": -131.865
+      },
+      {
+        "lat": 69.663,
+        "lng": -131.689
+      },
+      {
+        "lat": 69.590,
+        "lng": -131.590
+      },
+      {
+        "lat": 69.483,
+        "lng": -132.239
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.351,
+        "lng": -131.867
+      },
+      {
+        "lat": 70.483,
+        "lng": -131.021
+      },
+      {
+        "lat": 70.124,
+        "lng": -130.933
+      },
+      {
+        "lat": 70.083,
+        "lng": -131.350
+      },
+      {
+        "lat": 70.061,
+        "lng": -131.581
+      },
+      {
+        "lat": 70.034,
+        "lng": -131.790
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.984,
+        "lng": -131.764
+      },
+      {
+        "lat": 70.014,
+        "lng": -131.412
+      },
+      {
+        "lat": 70.067,
+        "lng": -130.951
+      },
+      {
+        "lat": 69.814,
+        "lng": -130.962
+      },
+      {
+        "lat": 69.841,
+        "lng": -131.204
+      },
+      {
+        "lat": 69.780,
+        "lng": -131.665
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.494,
+        "lng": -130.864
+      },
+      {
+        "lat": 70.464,
+        "lng": -129.864
+      },
+      {
+        "lat": 70.127,
+        "lng": -129.919
+      },
+      {
+        "lat": 70.116,
+        "lng": -130.820
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.079,
+        "lng": -130.816
+      },
+      {
+        "lat": 70.090,
+        "lng": -129.915
+      },
+      {
+        "lat": 69.747,
+        "lng": -130.025
+      },
+      {
+        "lat": 69.693,
+        "lng": -130.871
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.462,
+        "lng": -129.790
+      },
+      {
+        "lat": 70.414,
+        "lng": -128.603
+      },
+      {
+        "lat": 70.418,
+        "lng": -128.142
+      },
+      {
+        "lat": 70.495,
+        "lng": -127.428
+      },
+      {
+        "lat": 70.484,
+        "lng": -126.857
+      },
+      {
+        "lat": 70.114,
+        "lng": -126.878
+      },
+      {
+        "lat": 70.132,
+        "lng": -129.834
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.063,
+        "lng": -129.806
+      },
+      {
+        "lat": 70.055,
+        "lng": -128.466
+      },
+      {
+        "lat": 69.738,
+        "lng": -129.927
+      },
+      {
+        "lat": 69.727,
+        "lng": -128.455
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.059,
+        "lng": -128.351
+      },
+      {
+        "lat": 70.048,
+        "lng": -126.878
+      },
+      {
+        "lat": 69.901,
+        "lng": -126.922
+      },
+      {
+        "lat": 69.962,
+        "lng": -128.329
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 69.909,
+        "lng": -128.312
+      },
+      {
+        "lat": 69.883,
+        "lng": -126.961
+      },
+      {
+        "lat": 69.777,
+        "lng": -126.994
+      },
+      {
+        "lat": 69.701,
+        "lng": -127.115
+      },
+      {
+        "lat": 69.582,
+        "lng": -127.159
+      },
+      {
+        "lat": 69.739,
+        "lng": -128.367
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.487,
+        "lng": -126.665
+      },
+      {
+        "lat": 70.105,
+        "lng": -126.720
+      },
+      {
+        "lat": 70.083,
+        "lng": -126.501
+      },
+      {
+        "lat": 69.981,
+        "lng": -125.907
+      },
+      {
+        "lat": 70.461,
+        "lng": -125.699
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.060,
+        "lng": -126.669
+      },
+      {
+        "lat": 70.056,
+        "lng": -126.504
+      },
+      {
+        "lat": 69.788,
+        "lng": -125.153
+      },
+      {
+        "lat": 69.382,
+        "lng": -125.438
+      },
+      {
+        "lat": 69.552,
+        "lng": -126.954
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 70.464,
+        "lng": -125.573
+      },
+      {
+        "lat": 70.490,
+        "lng": -124.936
+      },
+      {
+        "lat": 70.468,
+        "lng": -124.386
+      },
+      {
+        "lat": 69.822,
+        "lng": -125.078
+      },
+      {
+        "lat": 69.943,
+        "lng": -125.782
+      },
+      {
+        "lat": 70.172,
+        "lng": -125.617
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.426,
+        "lng": -116.690
+      },
+      {
+        "lat": 56.438,
+        "lng": -116.064
+      },
+      {
+        "lat": 56.231,
+        "lng": -116.075
+      },
+      {
+        "lat": 56.231,
+        "lng": -116.690
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.994,
+        "lng": -115.894
+      },
+      {
+        "lat": 56.994,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.808,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.814,
+        "lng": -115.916
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.716,
+        "lng": -115.899
+      },
+      {
+        "lat": 56.734,
+        "lng": -115.130
+      },
+      {
+        "lat": 56.529,
+        "lng": -115.119
+      },
+      {
+        "lat": 56.517,
+        "lng": -115.921
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.433,
+        "lng": -115.883
+      },
+      {
+        "lat": 56.439,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.225,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.232,
+        "lng": -115.894
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.433,
+        "lng": -115.883
+      },
+      {
+        "lat": 56.439,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.225,
+        "lng": -115.114
+      },
+      {
+        "lat": 56.232,
+        "lng": -115.894
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.992,
+        "lng": -114.981
+      },
+      {
+        "lat": 56.998,
+        "lng": -114.179
+      },
+      {
+        "lat": 56.805,
+        "lng": -114.961
+      },
+      {
+        "lat": 56.805,
+        "lng": -114.159
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.722,
+        "lng": -114.969
+      },
+      {
+        "lat": 56.728,
+        "lng": -114.156
+      },
+      {
+        "lat": 56.504,
+        "lng": -114.167
+      },
+      {
+        "lat": 56.517,
+        "lng": -114.969
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.437,
+        "lng": -114.980
+      },
+      {
+        "lat": 56.443,
+        "lng": -114.167
+      },
+      {
+        "lat": 56.223,
+        "lng": -114.156
+      },
+      {
+        "lat": 56.242,
+        "lng": -114.991
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.995,
+        "lng": -114.029
+      },
+      {
+        "lat": 56.989,
+        "lng": -113.029
+      },
+      {
+        "lat": 56.815,
+        "lng": -113.018
+      },
+      {
+        "lat": 56.821,
+        "lng": -114.029
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.730,
+        "lng": -114.033
+      },
+      {
+        "lat": 56.724,
+        "lng": -113.033
+      },
+      {
+        "lat": 56.525,
+        "lng": -113.044
+      },
+      {
+        "lat": 56.525,
+        "lng": -114.044
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 56.286,
+        "lng": -113.139
+      },
+      {
+        "lat": 56.273,
+        "lng": -112.425
+      },
+      {
+        "lat": 55.671,
+        "lng": -112.414
+      },
+      {
+        "lat": 55.677,
+        "lng": -113.161
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 55.576,
+        "lng": -113.148
+      },
+      {
+        "lat": 55.582,
+        "lng": -112.412
+      },
+      {
+        "lat": 54.988,
+        "lng": -112.423
+      },
+      {
+        "lat": 55.001,
+        "lng": -113.148
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 67.286,
+        "lng": -118.279
+      },
+      {
+        "lat": 67.269,
+        "lng": -117.235
+      },
+      {
+        "lat": 66.037,
+        "lng": -117.202
+      },
+      {
+        "lat": 66.010,
+        "lng": -118.224
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.482,
+        "lng": -116.913
+      },
+      {
+        "lat": 65.990,
+        "lng": -116.913
+      },
+      {
+        "lat": 66.008,
+        "lng": -115.068
+      },
+      {
+        "lat": 66.525,
+        "lng": -115.540
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 66.482,
+        "lng": -116.913
+      },
+      {
+        "lat": 65.990,
+        "lng": -116.913
+      },
+      {
+        "lat": 66.008,
+        "lng": -115.068
+      },
+      {
+        "lat": 66.525,
+        "lng": -115.540
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 78.963,
+        "lng": -111.787
+      },
+      {
+        "lat": 78.828,
+        "lng": -111.546
+      },
+      {
+        "lat": 78.911,
+        "lng": -110.337
+      },
+      {
+        "lat": 79.045,
+        "lng": -110.612
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 78.962,
+        "lng": -111.779
+      },
+      {
+        "lat": 78.829,
+        "lng": -111.537
+      },
+      {
+        "lat": 78.909,
+        "lng": -110.361
+      },
+      {
+        "lat": 79.048,
+        "lng": -110.614
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.159,
+        "lng": -109.434
+      },
+      {
+        "lat": 79.108,
+        "lng": -109.237
+      },
+      {
+        "lat": 79.279,
+        "lng": -108.072
+      },
+      {
+        "lat": 79.336,
+        "lng": -108.380
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.096,
+        "lng": -109.166
+      },
+      {
+        "lat": 79.037,
+        "lng": -108.969
+      },
+      {
+        "lat": 79.172,
+        "lng": -107.705
+      },
+      {
+        "lat": 79.265,
+        "lng": -107.991
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.450,
+        "lng": -107.653
+      },
+      {
+        "lat": 79.363,
+        "lng": -107.379
+      },
+      {
+        "lat": 79.292,
+        "lng": -107.972
+      },
+      {
+        "lat": 79.357,
+        "lng": -108.280
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.275,
+        "lng": -107.884
+      },
+      {
+        "lat": 79.342,
+        "lng": -107.302
+      },
+      {
+        "lat": 79.254,
+        "lng": -106.994
+      },
+      {
+        "lat": 79.191,
+        "lng": -107.588
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.461,
+        "lng": -107.518
+      },
+      {
+        "lat": 79.499,
+        "lng": -106.584
+      },
+      {
+        "lat": 79.433,
+        "lng": -106.452
+      },
+      {
+        "lat": 79.371,
+        "lng": -107.254
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.345,
+        "lng": -107.157
+      },
+      {
+        "lat": 79.403,
+        "lng": -106.443
+      },
+      {
+        "lat": 79.322,
+        "lng": -106.278
+      },
+      {
+        "lat": 79.261,
+        "lng": -106.915
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.498,
+        "lng": -106.429
+      },
+      {
+        "lat": 79.492,
+        "lng": -106.033
+      },
+      {
+        "lat": 79.466,
+        "lng": -105.759
+      },
+      {
+        "lat": 79.401,
+        "lng": -105.517
+      },
+      {
+        "lat": 79.330,
+        "lng": -106.198
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "Territory Areas",
+    "title": "Territ�rio vazio",
+    "notes": "",
+    "wiki_link": "",
+    "order": 1,
+    "strokecolor": "#000",
+    "fillcolor": "#747474",
+    "latlngarray": [
+
+      {
+        "lat": 79.233,
+        "lng": -106.829
+      },
+      {
+        "lat": 79.301,
+        "lng": -106.236
+      },
+      {
+        "lat": 79.198,
+        "lng": -105.928
+      },
+      {
+        "lat": 79.138,
+        "lng": -106.521
+      }
+    ]
   }
 ]
