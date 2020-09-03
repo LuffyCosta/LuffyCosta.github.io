@@ -6094,12 +6094,12 @@
   {
     "id": 174,
     "type": "Territory Areas",
-    "title": "Territorio vazio 176",
+    "title": "MBG",
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#7a4c10",
+    "fillcolor": "#b58f5c",
     "latlngarray": [
 
       {
@@ -7178,7 +7178,8 @@
       },
       {
         "lat": 68.009,
-        "lng": -115.210
+        "lng": -115.
+        
       },
       {
         "lat": 68.364,
@@ -7438,12 +7439,12 @@
   {
     "id": 208,
     "type": "Territory Areas",
-    "title": "Territorio vazio 210",
+    "title": "YAKUZA",
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#991212",
+    "fillcolor": "#f50a0a",
     "latlngarray": [
       
         {
