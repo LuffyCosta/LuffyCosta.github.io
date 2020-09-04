@@ -6036,12 +6036,12 @@
   {
     "id": 172,
     "type": "Territory Areas",
-    "title": "Territorio vazio 174",
+    "title": "MBG",
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#7a4c10",
+    "fillcolor": "#b58f5c",
     "latlngarray": [
 
       {
@@ -6065,12 +6065,12 @@
   {
     "id": 173,
     "type": "Territory Areas",
-    "title": "Territorio vazio 175",
+    "title": "MBG",
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#7a4c10",
+    "fillcolor": "#b58f5c",
     "latlngarray": [
 
       {
