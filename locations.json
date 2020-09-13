@@ -564,8 +564,8 @@
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#1d7300",
+    "fillcolor": "#3ae002",
     "latlngarray": [
 
       {
@@ -956,12 +956,12 @@
   {
     "id": 31,
     "type": "Territory Areas",
-    "title": "Territorio vazio 30",
+    "title": "Vespucci Boyz",
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#4f0202",
+    "fillcolor": "#e30505",
     "latlngarray": [
 
       {
@@ -1613,8 +1613,8 @@
     "notes": "",
     "wiki_link": "",
     "order": 1,
-    "strokecolor": "#000",
-    "fillcolor": "#747474",
+    "strokecolor": "#696300",
+    "fillcolor": "#f5e900",
     "latlngarray": [
 
       {
